@@ -51,61 +51,54 @@
 49,Gobiosoma bosc,0.273,0.225,0.071
 50,Harengula,0.0,0.025,0.0
 51,Lagodon rhomboides,0.0,0.138,0.027
-52,Leander tenuicornis,0.03,0.675,0.0
-53,Leiostomus xanthurus,0.0,0.012,0.0
-54,Litopenaeus setiferus,0.545,1.0,0.982
-55,Littoraria irrorata,0.0,0.0,0.179
-56,Lucania parva,0.03,0.0,0.0
-57,Lutjanus griseus,0.03,0.075,0.0
-58,Macrobrachium ohione,0.03,0.0,0.0
-59,Menidia,0.0,0.012,0.0
-60,Menidia beryllina,0.061,0.275,0.214
-61,Micropogonias undulatus,0.0,0.012,0.018
-62,Minuca,0.727,0.55,0.027
-63,Minuca longisignalis,0.03,0.0,0.42
-64,Minuca pugnax,0.03,0.0,0.0
-65,Minuca rapax,0.03,0.0,0.045
-66,Mugil cephalus,0.0,0.175,0.089
-67,Mugil curema,0.0,0.038,0.0
-68,Myrophis punctatus,0.0,0.05,0.027
-69,Negaprion brevirostris,0.0,0.0,0.009
-70,Neoconger mucronatus,0.03,0.0,0.0
-71,Neverita delessertiana,0.0,0.0,0.009
-72,Ocypodidae,0.0,0.012,0.0
-73,Opsanus beta,0.0,0.012,0.0
-74,Pachygrapsus gracilis,0.0,0.0,0.009
-75,Pagurus armatus,0.0,0.012,0.027
-76,Pagurus longicarpus,0.0,0.0,0.009
-77,Palaemon intermedius,0.0,0.088,0.0
-78,Palaemon pugio,0.121,0.875,0.0
-79,Palaemon vulgaris,0.788,0.425,0.0
-80,Palaemonetes,0.212,0.85,0.795
-81,Panopeidae,0.758,0.088,0.0
-82,Panopeus herbstii,0.03,0.312,0.0
-83,Panopeus obesus,0.121,0.0,0.375
-84,Panopeus simpsoni,0.0,0.0,0.054
-85,Paralichthys lethostigma,0.0,0.0,0.027
-86,Penaeidae,0.0,0.188,0.0
-87,Penaeus aztecus,0.0,0.0,0.143
-88,Petrolisthes armatus,0.0,0.0,0.027
-89,Phrontis vibex,0.0,0.0,0.009
-90,Poecilia latipinna,0.0,0.25,0.045
-91,Pogonias cromis,0.0,0.012,0.0
-92,Portunidae,0.0,0.938,0.0
-93,Probopyrus pandalicola,0.0,0.0,0.143
-94,Rimapenaeus similis,0.03,0.0,0.0
-95,Sciaenops ocellatus,0.061,0.0,0.027
-96,Sesarma reticulatum,0.121,0.125,0.062
-97,Sesarmidae,0.515,0.012,0.0
-98,Solenosteira cancellaria,0.0,0.0,0.027
-99,Symphurus plagiusa,0.0,0.112,0.116
-100,Syngnathus louisianae,0.061,0.0,0.0
-101,Syngnathus scovelli,0.03,0.025,0.009
-102,Trinectes maculatus,0.0,0.0,0.018
-103,Unknown Fish,0.0,0.025,0.0
-104,Unknown Fish ,0.0,0.0,0.054
-105,Urosalpinx cinerea,0.03,0.0,0.009
-106,arthropoda,0.0,0.0,0.009
-107,crusacea,0.0,0.0,0.018
-108,polychaeta,0.0,0.0,0.045
-109,teleostei,0.0,0.0,0.054
+52,Leiostomus xanthurus,0.0,0.012,0.0
+53,Litopenaeus setiferus,0.545,1.0,0.982
+54,Littoraria irrorata,0.0,0.0,0.179
+55,Lucania parva,0.03,0.0,0.0
+56,Lutjanus griseus,0.03,0.075,0.0
+57,Macrobrachium ohione,0.03,0.0,0.0
+58,Menidia,0.0,0.012,0.0
+59,Menidia beryllina,0.061,0.275,0.214
+60,Micropogonias undulatus,0.0,0.012,0.018
+61,Minuca spp.,0.758,0.55,0.446
+62,Mugil cephalus,0.0,0.175,0.089
+63,Mugil curema,0.0,0.038,0.0
+64,Myrophis punctatus,0.0,0.05,0.027
+65,Negaprion brevirostris,0.0,0.0,0.009
+66,Neoconger mucronatus,0.03,0.0,0.0
+67,Neverita delessertiana,0.0,0.0,0.009
+68,Ocypodidae,0.0,0.012,0.0
+69,Opsanus beta,0.0,0.012,0.0
+70,Pachygrapsus gracilis,0.0,0.0,0.009
+71,Pagurus armatus,0.0,0.012,0.027
+72,Pagurus longicarpus,0.0,0.0,0.009
+73,Palaemon spp.,0.788,1.0,0.795
+74,Panopeidae,0.758,0.088,0.0
+75,Panopeus herbstii,0.03,0.312,0.0
+76,Panopeus obesus,0.121,0.0,0.375
+77,Panopeus simpsoni,0.0,0.0,0.054
+78,Paralichthys lethostigma,0.0,0.0,0.027
+79,Penaeidae,0.0,0.188,0.0
+80,Penaeus aztecus,0.0,0.0,0.143
+81,Petrolisthes armatus,0.0,0.0,0.027
+82,Phrontis vibex,0.0,0.0,0.009
+83,Poecilia latipinna,0.0,0.25,0.045
+84,Pogonias cromis,0.0,0.012,0.0
+85,Portunidae,0.0,0.938,0.0
+86,Probopyrus pandalicola,0.0,0.0,0.143
+87,Rimapenaeus similis,0.03,0.0,0.0
+88,Sciaenops ocellatus,0.061,0.0,0.027
+89,Sesarma reticulatum,0.121,0.125,0.062
+90,Sesarmidae,0.515,0.012,0.0
+91,Solenosteira cancellaria,0.0,0.0,0.027
+92,Symphurus plagiusa,0.0,0.112,0.116
+93,Syngnathus louisianae,0.061,0.0,0.0
+94,Syngnathus scovelli,0.03,0.025,0.009
+95,Trinectes maculatus,0.0,0.0,0.018
+96,Unknown Fish,0.0,0.025,0.0
+97,Unknown Fish ,0.0,0.0,0.054
+98,Urosalpinx cinerea,0.03,0.0,0.009
+99,arthropoda,0.0,0.0,0.009
+100,crusacea,0.0,0.0,0.018
+101,polychaeta,0.0,0.0,0.045
+102,teleostei,0.0,0.0,0.054

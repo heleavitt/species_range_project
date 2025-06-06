@@ -1,0 +1,157 @@
+
+Acetes americanus: https://doi.org/10.15468/dl.nf2z9r
+
+Achirus lineatus: https://doi.org/10.15468/dl.bq5rs4
+
+Adinia xenica: https://doi.org/10.15468/dl.bqv8g7
+
+Alpheus heterochaelis: https://doi.org/10.15468/dl.sytunf
+
+Anchoa mitchilli: https://doi.org/10.15468/dl.2mqcsq
+
+Archosargus probatocephalus: https://doi.org/10.15468/dl.we599d
+
+Ariopsis felis: https://doi.org/10.15468/dl.5d2fng
+
+Armases americanum: https://doi.org/10.15468/dl.uvygj3
+
+Armases benedicti: https://doi.org/10.15468/dl.93sk8z
+
+Armases cinereum: https://doi.org/10.15468/dl.44gp7d
+
+Bagre marinus: https://doi.org/10.15468/dl.kgty49
+
+Bairdiella chrysoura: https://doi.org/10.15468/dl.aujfha
+
+Bathygobius soporator: https://doi.org/10.15468/dl.kg74h4
+
+Callinectes sapidus: https://doi.org/10.15468/dl.2dvnea
+
+Callinectes similis: https://doi.org/10.15468/dl.98yx2m
+
+Citharichthys spilopterus: https://doi.org/10.15468/dl.r6f49d
+
+Clibanarius vittatus: https://doi.org/10.15468/dl.e9hszc
+
+Crassostrea virginica: https://doi.org/10.15468/dl.2uu389
+
+Ctenogobius boleosoma: https://doi.org/10.15468/dl.brpcpu
+
+Ctenogobius shufeldti: https://doi.org/10.15468/dl.mvmcnw
+
+Cynoscion arenarius: https://doi.org/10.15468/dl.9zt3vj
+
+Cynoscion nebulosus: https://doi.org/10.15468/dl.f4dgtt
+
+Cyprinodon variegatus: https://doi.org/10.15468/dl.ft3xmw
+
+Dormitator maculatus: https://doi.org/10.15468/dl.2henya
+
+Eleotris amblyopsis: https://doi.org/10.15468/dl.a5jvcg
+
+Eucinostomus argenteus: https://doi.org/10.15468/dl.deadh4
+
+Eucinostomus melanopterus: https://doi.org/10.15468/dl.8wpejs
+
+Eurytium limosum: https://doi.org/10.15468/dl.tpww32
+
+Evorthodus lyricus: https://doi.org/10.15468/dl.ut6f7t
+
+Farfantepenaeus aztecus: https://doi.org/10.15468/dl.zbdyu8
+
+Farfantepenaeus duorarum: https://doi.org/10.15468/dl.7zcp7r
+
+Fundulus grandis: https://doi.org/10.15468/dl.zh6yrt
+
+Fundulus jenkinsi: https://doi.org/10.15468/dl.cxpfw4
+
+Fundulus pulvereus: https://doi.org/10.15468/dl.q2dg7b
+
+Fundulus similis: https://doi.org/10.15468/dl.hyd863
+
+Fundulus xenicus: https://doi.org/10.15468/dl.rf8q4m
+
+Gobionellus oceanicus: https://doi.org/10.15468/dl.8rzr6k
+
+Gobiosoma bosc: https://doi.org/10.15468/dl.97b6u7
+
+Lagodon rhomboides: https://doi.org/10.15468/dl.u8gux7
+
+Leiostomus xanthurus: https://doi.org/10.15468/dl.jbhmb5
+
+Litopenaeus setiferus: https://doi.org/10.15468/dl.7dw3rf
+
+Littoraria irrorata: https://doi.org/10.15468/dl.j3b9nq
+
+Lucania parva: https://doi.org/10.15468/dl.hjygdw
+
+Lutjanus griseus: https://doi.org/10.15468/dl.f3s8eq
+
+Macrobrachium ohione: https://doi.org/10.15468/dl.h84mmf
+
+Menidia beryllina: https://doi.org/10.15468/dl.k8k28r
+
+Micropogonias undulatus: https://doi.org/10.15468/dl.hwtrbz
+
+Minuca longisignalis: https://doi.org/10.15468/dl.rb4net
+
+Mugil cephalus: https://doi.org/10.15468/dl.gm2dyy
+
+Mugil curema: https://doi.org/10.15468/dl.zktqpn
+
+Myrophis punctatus: https://doi.org/10.15468/dl.gqebch
+
+Negaprion brevirostris: https://doi.org/10.15468/dl.b88qf3
+
+Neoconger mucronatus: https://doi.org/10.15468/dl.fkxzzu
+
+Neverita delessertiana: https://doi.org/10.15468/dl.4s97zb
+
+Opsanus beta: https://doi.org/10.15468/dl.szny53
+
+Pachygrapsus gracilis: https://doi.org/10.15468/dl.ftfe4y
+
+Pagurus armatus: https://doi.org/10.15468/dl.4fyewq
+
+Pagurus longicarpus: https://doi.org/10.15468/dl.kn89ky
+
+Palaemon pugio: https://doi.org/10.15468/dl.gsyuyp
+
+Palaemon vulgaris: https://doi.org/10.15468/dl.srnv4z
+
+Panopeus herbstii: https://doi.org/10.15468/dl.uascsc
+
+Panopeus obesus: https://doi.org/10.15468/dl.wewn5r
+
+Panopeus simpsoni: https://doi.org/10.15468/dl.kde4wz
+
+Paralichthys lethostigma: https://doi.org/10.15468/dl.n72vrc
+
+Penaeus aztecus: https://doi.org/10.15468/dl.cjgbs6
+
+Petrolisthes armatus: https://doi.org/10.15468/dl.nyxprp
+
+Phrontis vibex: https://doi.org/10.15468/dl.xc3d9g
+
+Poecilia latipinna: https://doi.org/10.15468/dl.3v4pze
+
+Pogonias cromis: https://doi.org/10.15468/dl.8ws8gv
+
+Probopyrus pandalicola: https://doi.org/10.15468/dl.cgnvnf
+
+Rimapenaeus similis: https://doi.org/10.15468/dl.psuzat
+
+Sciaenops ocellatus: https://doi.org/10.15468/dl.g4urd3
+
+Sesarma reticulatum: https://doi.org/10.15468/dl.76brcc
+
+Solenosteira cancellaria: https://doi.org/10.15468/dl.d7hjsu
+
+Symphurus plagiusa: https://doi.org/10.15468/dl.79ckun
+
+Syngnathus louisianae: https://doi.org/10.15468/dl.3gw8x9
+
+Syngnathus scovelli: https://doi.org/10.15468/dl.pwb695
+
+Trinectes maculatus: https://doi.org/10.15468/dl.h3gvct
+
