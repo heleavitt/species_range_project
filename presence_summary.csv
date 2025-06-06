@@ -1,0 +1,172 @@
+,Year,Taxon,Sites_Present,Unique_Sites_Sampled,Proportion_of_Sites
+0,2006,Acetes americanus,1,33,0.03
+1,2006,Adinia xenica,1,33,0.03
+2,2006,Alpheus heterochaelis,1,33,0.03
+3,2006,Amphipoda,1,33,0.03
+4,2006,Archosargus probatocephalus,2,33,0.061
+5,2006,Armases cinereum,2,33,0.061
+6,2006,Bairdiella chrysoura,1,33,0.03
+7,2006,Callinectes,20,33,0.606
+8,2006,Callinectes sapidus,29,33,0.879
+9,2006,Clibanarius vittatus,4,33,0.121
+10,2006,Ctenogobius boleosoma,28,33,0.848
+11,2006,Cynoscion arenarius,1,33,0.03
+12,2006,Cyprinodon variegatus,1,33,0.03
+13,2006,Farfantepenaeus,8,33,0.242
+14,2006,Farfantepenaeus aztecus,11,33,0.333
+15,2006,Fundulus grandis,1,33,0.03
+16,2006,Fundulus jenkinsi,1,33,0.03
+17,2006,Fundulus pulvereus,1,33,0.03
+18,2006,Gobiidae,1,33,0.03
+19,2006,Gobiosoma,2,33,0.061
+20,2006,Gobiosoma bosc,9,33,0.273
+21,2006,Leander tenuicornis,1,33,0.03
+22,2006,Litopenaeus setiferus,18,33,0.545
+23,2006,Lucania parva,1,33,0.03
+24,2006,Lutjanus griseus,1,33,0.03
+25,2006,Macrobrachium ohione,1,33,0.03
+26,2006,Menidia beryllina,2,33,0.061
+27,2006,Minuca,24,33,0.727
+28,2006,Minuca longisignalis,1,33,0.03
+29,2006,Minuca pugnax,1,33,0.03
+30,2006,Minuca rapax,1,33,0.03
+31,2006,Neoconger mucronatus,1,33,0.03
+32,2006,Palaemon pugio,4,33,0.121
+33,2006,Palaemon vulgaris,26,33,0.788
+34,2006,Palaemonetes,7,33,0.212
+35,2006,Panopeidae,25,33,0.758
+36,2006,Panopeus herbstii,1,33,0.03
+37,2006,Panopeus obesus,4,33,0.121
+38,2006,Rimapenaeus similis,1,33,0.03
+39,2006,Sciaenops ocellatus,2,33,0.061
+40,2006,Sesarma reticulatum,4,33,0.121
+41,2006,Sesarmidae,17,33,0.515
+42,2006,Syngnathus louisianae,2,33,0.061
+43,2006,Syngnathus scovelli,1,33,0.03
+44,2006,Urosalpinx cinerea,1,33,0.03
+45,2016,Achirus lineatus,3,80,0.038
+46,2016,Alpheus,1,80,0.012
+47,2016,Alpheus heterochaelis,1,80,0.012
+48,2016,Anchoa mitchilli,14,80,0.175
+49,2016,Ariopsis felis,1,80,0.012
+50,2016,Armases americanum,2,80,0.025
+51,2016,Armases benedicti,2,80,0.025
+52,2016,Armases cinereum,11,80,0.138
+53,2016,Brachyura,4,80,0.05
+54,2016,Callinectes sapidus,75,80,0.938
+55,2016,Callinectes similis,8,80,0.1
+56,2016,Caridea,1,80,0.012
+57,2016,Citharichthys spilopterus,5,80,0.062
+58,2016,Clibanarius vittatus,11,80,0.138
+59,2016,Ctenogobius boleosoma,60,80,0.75
+60,2016,Cynoscion arenarius,1,80,0.012
+61,2016,Cynoscion nebulosus,8,80,0.1
+62,2016,Cyprinodon variegatus,5,80,0.062
+63,2016,Cyprinodontiformes,2,80,0.025
+64,2016,Dormitator maculatus,1,80,0.012
+65,2016,Eleotris amblyopsis,3,80,0.038
+66,2016,Engraulidae,1,80,0.012
+67,2016,Eucinostomus,4,80,0.05
+68,2016,Eucinostomus argenteus,3,80,0.038
+69,2016,Eucinostomus melanopterus,1,80,0.012
+70,2016,Eurytium limosum,1,80,0.012
+71,2016,Evorthodus lyricus,9,80,0.112
+72,2016,Farfantepenaeus aztecus,78,80,0.975
+73,2016,Farfantepenaeus duorarum,2,80,0.025
+74,2016,Fundulidae,1,80,0.012
+75,2016,Fundulus grandis,39,80,0.488
+76,2016,Fundulus jenkinsi,2,80,0.025
+77,2016,Fundulus xenicus,8,80,0.1
+78,2016,Gobiidae,4,80,0.05
+79,2016,Gobionellus oceanicus,3,80,0.038
+80,2016,Gobiosoma bosc,18,80,0.225
+81,2016,Harengula,2,80,0.025
+82,2016,Lagodon rhomboides,11,80,0.138
+83,2016,Leander tenuicornis,54,80,0.675
+84,2016,Leiostomus xanthurus,1,80,0.012
+85,2016,Litopenaeus setiferus,80,80,1.0
+86,2016,Lutjanus griseus,6,80,0.075
+87,2016,Menidia,1,80,0.012
+88,2016,Menidia beryllina,22,80,0.275
+89,2016,Micropogonias undulatus,1,80,0.012
+90,2016,Minuca,44,80,0.55
+91,2016,Mugil cephalus,14,80,0.175
+92,2016,Mugil curema,3,80,0.038
+93,2016,Myrophis punctatus,4,80,0.05
+94,2016,Ocypodidae,1,80,0.012
+95,2016,Opsanus beta,1,80,0.012
+96,2016,Pagurus armatus,1,80,0.012
+97,2016,Palaemon intermedius,7,80,0.088
+98,2016,Palaemon pugio,70,80,0.875
+99,2016,Palaemon vulgaris,34,80,0.425
+100,2016,Palaemonetes,68,80,0.85
+101,2016,Panopeidae,7,80,0.088
+102,2016,Panopeus herbstii,25,80,0.312
+103,2016,Penaeidae,15,80,0.188
+104,2016,Poecilia latipinna,20,80,0.25
+105,2016,Pogonias cromis,1,80,0.012
+106,2016,Portunidae,75,80,0.938
+107,2016,Sesarma reticulatum,10,80,0.125
+108,2016,Sesarmidae,1,80,0.012
+109,2016,Symphurus plagiusa,9,80,0.112
+110,2016,Syngnathus scovelli,2,80,0.025
+111,2016,Unknown Fish,2,80,0.025
+112,2022_2023,Alpheus heterochaelis,8,112,0.071
+113,2022_2023,Amphipoda,1,112,0.009
+114,2022_2023,Anchoa mitchilli,12,112,0.107
+115,2022_2023,Archosargus probatocephalus,1,112,0.009
+116,2022_2023,Armases cinereum,32,112,0.286
+117,2022_2023,Bagre marinus,1,112,0.009
+118,2022_2023,Bathygobius soporator,2,112,0.018
+119,2022_2023,Callinectes sapidus,73,112,0.652
+120,2022_2023,Citharichthys spilopterus,3,112,0.027
+121,2022_2023,Clibanarius vittatus,22,112,0.196
+122,2022_2023,Crassostrea virginica,2,112,0.018
+123,2022_2023,Ctenogobius boleosoma,88,112,0.786
+124,2022_2023,Ctenogobius shufeldti,1,112,0.009
+125,2022_2023,Cynoscion nebulosus,3,112,0.027
+126,2022_2023,Cyprinodon variegatus,1,112,0.009
+127,2022_2023,Eucinostomus melanopterus,2,112,0.018
+128,2022_2023,Evorthodus lyricus,10,112,0.089
+129,2022_2023,Farfantepenaeus aztecus,16,112,0.143
+130,2022_2023,Fundulus grandis,37,112,0.33
+131,2022_2023,Fundulus jenkinsi,4,112,0.036
+132,2022_2023,Fundulus similis,1,112,0.009
+133,2022_2023,Fundulus xenicus,4,112,0.036
+134,2022_2023,Gobiosoma bosc,8,112,0.071
+135,2022_2023,Lagodon rhomboides,3,112,0.027
+136,2022_2023,Litopenaeus setiferus,110,112,0.982
+137,2022_2023,Littoraria irrorata,20,112,0.179
+138,2022_2023,Menidia beryllina,24,112,0.214
+139,2022_2023,Micropogonias undulatus,2,112,0.018
+140,2022_2023,Minuca,3,112,0.027
+141,2022_2023,Minuca longisignalis,47,112,0.42
+142,2022_2023,Minuca rapax,5,112,0.045
+143,2022_2023,Mugil cephalus,10,112,0.089
+144,2022_2023,Myrophis punctatus,3,112,0.027
+145,2022_2023,Negaprion brevirostris,1,112,0.009
+146,2022_2023,Neverita delessertiana,1,112,0.009
+147,2022_2023,Pachygrapsus gracilis,1,112,0.009
+148,2022_2023,Pagurus armatus,3,112,0.027
+149,2022_2023,Pagurus longicarpus,1,112,0.009
+150,2022_2023,Palaemonetes,89,112,0.795
+151,2022_2023,Panopeus obesus,42,112,0.375
+152,2022_2023,Panopeus simpsoni,6,112,0.054
+153,2022_2023,Paralichthys lethostigma,3,112,0.027
+154,2022_2023,Penaeus aztecus,16,112,0.143
+155,2022_2023,Petrolisthes armatus,3,112,0.027
+156,2022_2023,Phrontis vibex,1,112,0.009
+157,2022_2023,Poecilia latipinna,5,112,0.045
+158,2022_2023,Probopyrus pandalicola,16,112,0.143
+159,2022_2023,Sciaenops ocellatus,3,112,0.027
+160,2022_2023,Sesarma reticulatum,7,112,0.062
+161,2022_2023,Solenosteira cancellaria,3,112,0.027
+162,2022_2023,Symphurus plagiusa,13,112,0.116
+163,2022_2023,Syngnathus scovelli,1,112,0.009
+164,2022_2023,Trinectes maculatus,2,112,0.018
+165,2022_2023,Unknown Fish ,6,112,0.054
+166,2022_2023,Urosalpinx cinerea,1,112,0.009
+167,2022_2023,arthropoda,1,112,0.009
+168,2022_2023,crusacea,2,112,0.018
+169,2022_2023,polychaeta,5,112,0.045
+170,2022_2023,teleostei,6,112,0.054

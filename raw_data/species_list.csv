@@ -1,0 +1,87 @@
+﻿Title,common_name,code,functional_group,photo,desc,AphiaID ,valid_name 
+f2ba304a,Amphipod,AMPSPP,crustacean,,,1135,Amphipoda 
+306782db,atlantic croaker,MICUND,fish,species_list_Images/306782db.photo.214111.jpg,,151158,Micropogonias undulatus
+90765501,bay anchovy,ANCMIT,fish,species_list_Images/90765501.photo.184743.png,,158699,Anchoa mitchilli
+24af46db,bigclaw snapping shrimp,ALPHET,crustacean,species_list_Images/24af46db.photo.185159.png,,158348,Alpheus heterochaelis
+65ca2194,blackcheek tonguefish,SYMPLA,fish,species_list_Images/65ca2194.photo.160830.png,,159363,Symphurus plagiusa
+6333b032,blue crab,CALSAP,crustacean,species_list_Images/6333b032.photo.185023.jpg,,107379,Callinectes sapidus
+f8102cbb,brown shrimp large,PENAZTL,crustacean,species_list_Images/f8102cbb.photo.191404.png,,395176,Penaeus aztecus
+158debd2,brown shrimp medium,PENAZTM,crustacean,species_list_Images/158debd2.photo.191314.png,,395176,Penaeus aztecus
+c8704bae,brown shrimp small,PENAZTS,crustacean,species_list_Images/c8704bae.photo.191115.png,,395176,Penaeus aztecus
+2616541c,bruised nassa,PHRVIB,other,species_list_Images/2616541c.photo.231048.png,,877061,Phrontis vibex
+a13f2b4f,cancellate cantharus,SOLCAN,crustacean,species_list_Images/a13f2b4f.photo.163226.png,,419981,Solenosteira cancellaria
+1d142976,dark shore crab,PACGRA,crustacean,species_list_Images/1d142976.photo.213539.jpg,,241200,Pachygrapsus gracilis
+1d3cc7d1,darter goby,CTEBOL,fish,species_list_Images/1d3cc7d1.photo.160843.png,,159750,Ctenogobius boleosoma
+d2dad773,diamond killifish,FUNXEN,fish,,,308885,Fundulus xenicus
+df992005,false shark eye,NEVDEL,other,species_list_Images/df992005.photo.182453.png,,419761,Neverita delessertiana
+bc7b65fe,fiddler crab,UCASP,crustacean,species_list_Images/bc7b65fe.photo.225204.jpg,,955330,Uca sp.
+64f1ec91,fish eggs ,FSHEGG,other,,,0,
+729c70df,flagfin mojarra,EUCMEL,fish,species_list_Images/729c70df.photo.192338.jpg,,276423,Eucinostomus melanopterus
+8f09a7b9,frillfin goby,BATSOP,fish,species_list_Images/8f09a7b9.photo.210454.png,,277638,Bathygobius soporator
+85b90b37,gaftopsail sea catfish,BAGMAR,fish,species_list_Images/85b90b37.photo.224652.jpg,,158713,Bagre marinus
+03007a24,grass shrimp,PALSP,crustacean,species_list_Images/03007a24.photo.160815.png,,106788,Palaemonidae
+cc265f0d,green porcelain crab,PETARM,crustacean,species_list_Images/cc265f0d.photo.214727.jpg,,396707,Petrolisthes armatus
+c2d636b2,gulf kilifish,FUNGRA,fish,species_list_Images/c2d636b2.photo.185055.png,,276030,Fundulus grandis
+da0e96cd,highfin goby,GOBOCE,fish,species_list_Images/da0e96cd.photo.230805.jpg,,159753,Gobionellus oceanicus
+7a245da6,hogchocker,TRIMAC,fish,species_list_Images/7a245da6.photo.225008.jpg,,159271,Trinectes maculatus 
+39396706,inland silverside,MENBER,fish,species_list_Images/39396706.photo.184815.png,,159227,Menidia beryllina
+c6ff42f9,long wrist crab,PAGLON,crustacean,species_list_Images/c6ff42f9.photo.212025.jpg,,158403,Pagurus longicarpus
+004efabb,longnose killifish,FUNSIM,fish,species_list_Images/004efabb.photo.200428.jpg,,276034,Fundulus similis
+2f739268,lyre goby,EVOLYR,fish,species_list_Images/2f739268.photo.184752.png,species_list_Images/2f739268.desc.184752.png,159743,Evorthodus lyricus
+ab6e53a8,mosquito fish,GAMAFF,fish,species_list_Images/ab6e53a8.photo.185813.png,,159325,Gambusia affinis 
+39b6ca44,naked goby,GOBBOS,fish,species_list_Images/39b6ca44.photo.184734.png,species_list_Images/39b6ca44.desc.184734.png,159767,Gobiosoma bosc
+0c057add,oyster,CRAVIR,other,,,140657,Crassostrea virginica
+4719b791,oyster drill,UROCIN,other,species_list_Images/4719b791.photo.182143.png,,140429,Urosalpinx cinerea
+99cf6631,oystershell mud crab,PANSIM,crustacean,species_list_Images/99cf6631.photo.190531.png,,422088,Panopeus simpsoni
+f3fe3c9f,pinfish,LAGRHO,fish,species_list_Images/f3fe3c9f.photo.184747.png,species_list_Images/f3fe3c9f.desc.184747.png,159249,Lagodon rhomboides
+0f84a0ed,red drum,SCIOCE,fish,species_list_Images/0f84a0ed.photo.211244.png,,159335,Sciaenops ocellatus
+9b7e2925,red drum neonate,SCIOCEN,fish,species_list_Images/9b7e2925.photo.211226.png,,159335,Sciaenops ocellatus
+a417b33c,sailfin molly,POELAT,fish,species_list_Images/a417b33c.photo.185933.png,,275348,Poecilia latipinna
+7366c6db,salt marsh mud crab,PANOBE,crustacean,species_list_Images/7366c6db.photo.190501.png,,422085,Panopeus obesus
+02b3298a,saltmarsh periwinkle,LITIRR,other,species_list_Images/02b3298a.photo.190220.png,,419566,Littoraria irrorata 
+9cedacb9,saltmarsh topminnow,FUNJEN,fish,species_list_Images/9cedacb9.photo.185358.png,,276031,Fundulus jenkinsi
+765f6c18,sheepshead minnow,CYPVAR,fish,,,159285,Cyprinodon variegatus
+1b016c50,shrimp parasite,PROPAN,other,species_list_Images/1b016c50.photo.225341.jpg,,157905,Probopyrus pandalicola
+9c2e5667,southern flounder juvenile,PARLETJ,fish,species_list_Images/9c2e5667.photo.163204.png,,158829,Paralichthys lethostigma 
+450a9bfa,speckled worm eel,MYRPUN,fish,species_list_Images/450a9bfa.photo.185455.png,,158643,Myrophis punctatus
+66a87a1e,spotfin mojarra,EUCARG,fish,species_list_Images/66a87a1e.photo.193520.jpg,,159732,Eucinostomus argenteus
+4b68bd3c,spotted seatrout,CYNNEB,fish,species_list_Images/4b68bd3c.photo.183916.jpg,,159312,Cynoscion nebulosus
+7bdea95e,squareback marsh crab,ARMCIN,crustacean,species_list_Images/7bdea95e.photo.190615.png,,158049,Armases cinereum
+ce577d8c,striped mullet,MUGCEP,fish,species_list_Images/ce577d8c.photo.185701.png,,126983,Mugil cephalus
+456c4c29,thinstripe hermit,CLIVIT,crustacean,species_list_Images/456c4c29.photo.185615.png,,367528,Clibanarius vittatus
+17cb4351,unknown arthropod,UNKART,crustacean,,,1065,arthropoda 
+6e54b3f4,unknown crustacean,UNKCRU,crustacean,species_list_Images/6e54b3f4.photo.224548.jpg,,1066,crusacea 
+a008a70f,unknown fish,UNKFSH,fish,,,293496,teleostei 
+d5da5e8f,unknown polychete,UNKPOL,other,,,883,polychaeta
+ae154d0e,white shrimp large,PENSETL,crustacean,species_list_Images/ae154d0e.photo.191247.png,,762818,Penaeus setiferus 
+a7424935,white shrimp medium,PENSETM,crustacean,species_list_Images/a7424935.photo.191144.png,,762818,Penaeus setiferus 
+569400cb,white shrimp small,PENSETS,crustacean,species_list_Images/569400cb.photo.173356.png,species_list_Images/569400cb.desc.173356.png,762818,Penaeus setiferus 
+10198510,hardhead catfish,ARIFEL,,,,158709,Ariopsis felis
+2B7E11C4,spot,LEIXAN,,,,159322,Leiostomus xanthurus
+91DCD18A,atlantic crevalle jack,CARHIP,,,,126803,Caranx hippos
+17E7D0CC,emerald sleeper,EROSMA,,,,280710,Erotelis smaragdus
+1F5C699C,sand trout,CYNARE,,,,276077,Cynoscion arenarius
+E6EF57A6,mudflat fiddler,MINRAP,,,,955271,Minuca rapax 
+83C94E95,gulf marsh fiddler,MINLON ,,,,955264,Minuca longisignalis
+D750ADA6,lemon shark,NEGBRE,,,,105800,Negaprion brevirostris
+BEB93C5B,gulf toadfish,OPSBET,,,,275645,Opsanus beta
+00F7AFC7,silver perch,BAICHR,,,,159303,Bairdiella chrysoura
+617E4644,gulf pipefish,SYNSCO,,,,275232,Syngnathus scovelli
+a47b8d2c,bay whiff,CITSPI,fish,,,159166,Citharichthys spilopterus
+BFDB10D7,white mullet,MUGCUR,,,,159416,Mugil curema
+344BE739,purple marsh crab,SESRET,,,,158458,Sesarma reticulatum
+1B46FEE2,freshwater goby,CTESHU,,,,276490,Ctenogobius shufeldti 
+E1E7C524,annelid,ANNELI,,,,882,Annelid
+2A4F04A8,mudflat fiddler,UCARAP,,,,955271,Minuca Rapax
+7BA8C480,Smallmouth flounder,ETRMIC,,,,158801,Etropus microstomus
+9FC49496,Tidewater Mojarra),EUCHAR,,,,276420,Eucinostomus harengulus 
+31209B9B,Black Drum,POGCRO,,,,159333,Pogonias Cromis
+B55025F1,atlantic brief squid,LOLBRE,,,,574509,Lolliguncula brevis
+01182F6B,Inshore lizard fish,SYNFOE,,,,158758,Synodus foetens
+5F8B8626,Silver Jenny,EUCGUL,,,,159733,Eucinostomus gula
+210D2BF3,Atlantic Spade Fish,CHAFAB,,,,159703,Chaetodipterus faber
+FB823BF5,Mantis Shrimp,SQUEMP,,,,158466,Squilla empusa
+ECFCE021,Yellowfin Menhaden,BRESMI,,,,158690,Brevoortia smithi
+9DFDBE91,Gulf Menhaden,BREPAT,,,,275500,Brevoortia patronus
+CEDA7B52,Southern Kingfish,MENAME,,,,159326,Menticirrhus americanus
+AD443A74,Sheepshead,ARCPRO,,,,159238,Archosargus probatocephalus

@@ -1,0 +1,165 @@
+Unnamed: 0,common_name_x,scientific_name,2005,2016,2022,AphiaID,valid_name,doerr_name,nelson_name,full_name ,common_name_y,species_code,functional_group,2005_name,true_name,taxonomic_rank
+0,sergestid shrimp,Acetes americanus,TRUE,FALSE,FALSE,158344,Acetes americanus,,,Acetes americanus,,,,Acetes americanus,Acetes americanus,Species
+1,lined sole,Archirus lineatus,FALSE,TRUE,FALSE,279493,Achirus lineatus,,,,,,,,Achirus lineatus,Species
+2,,,,,,279509,Adinia xenica,,,Adinia xenica,,,,Adinia xenica,Fundulus xenicus,Species
+3,bigclaw snapping shrimp,Alpheus heterochaelis,TRUE,TRUE,TRUE,158348,Alpheus heterochaelis,A. heterochaelis,A. heterochaelis,Alpheus heterochaelis,bigclaw snapping shrimp,ALPHET,crab,Alpheus heterochaelis,Alpheus heterochaelis,Species
+4,,,,,,106978,Alpheus,Alpheus sp.,Alpheus sp.,Alpheus sp.,,ALPSP,crab,Alpheus sp.,Alpheus,Genus
+5,broad stripped anchovie,Anchoa hepsetus,TRUE,FALSE,FALSE,158698,Anchoa hepsetus,,,Anchoa hepsetus,,,,Anchoa hepsetus,Anchoa hepsetus,Species
+6,bay anchovie,Anchoa mitchilli,TRUE,TRUE,TRUE,158699,Anchoa mitchilli,A. mitchilli,A. mitchilli,Anchoa mitchilli,bay anchovie,ANCMIT,fish,Anchoa mitchilli,Anchoa mitchilli,Species
+7,,,,,,158697,Anchoa,,,Anchoa spp.,,,,Anchoa spp.,Anchoa,Genus
+8,,,,,,,Archirus lineatus,A. lineatus,A. lineatus,Archirus lineatus,lined sole,ARCLIN,fish,,API request failed,Unknown
+9,sheepshead,Archosargus probatocephalus,TRUE,TRUE,TRUE,159238,Archosargus probatocephalus,,,Archosargus probatocephalus,,,,Archosargus probatocephalus,Archosargus probatocephalus,Species
+10,hardhead catfish,Ariopsis felis,TRUE,TRUE,TRUE,158709,Ariopsis felis,A. felis,A. felis,Ariopsis felis,hardhead catfish,ARIFEL,fish,Ariopsis felis,Ariopsis felis,Species
+11,american marsh crab,Armases americanum ,FALSE,TRUE,FALSE,,Armases americanum ,A. americanus,A. americanus,Armases americanum ,,ARMAME,crab,,API request failed,Unknown
+12,fatfinger marsh crab,Armases benedicti,FALSE,TRUE,FALSE,422192,Armases benedicti,A. benedicti,A. benedicti,Armases benedicti,fatfinger marsh crab,ARMBEN,crab,,Armases benedicti,Species
+13,squareback marsh crab,Armases cinereum,TRUE,TRUE,TRUE,158049,Armases cinereum,A. cinereum,A. cinereum,Armases cinereum,squareback marsh crab,ARMCIN,crab,Armases cinereum,Armases cinereum,Species
+14,gaftop catfish ,Bagre marinus,TRUE,TRUE,TRUE,158713,Bagre marinus,,,,,,,,Bagre marinus,Species
+15,Silver Perch ,Bairdiella chrysoura,TRUE,TRUE,TRUE,159303,Bairdiella chrysoura,,,Bairdiella chrysoura,,,,Bairdiella chrysoura,Bairdiella chrysoura,Species
+16,Frillfin Goby,Bathygobius soporator,FALSE,FALSE,TRUE,277638,Bathygobius soporator,,,,,,,,Bathygobius soporator,Species
+17,lucifer shrimp,Lucifer faxoni,TRUE,FALSE,FALSE,883867,Belzebub faxoni,,,,,,,,Belzebub faxoni,Species
+18,,,,,,125576,Bothidae,,,Bothidae,,,,Bothidae,Bothidae,Family
+19,Gulf Menhaden,Brevoortia patronus,TRUE,TRUE,TRUE,275500,Brevoortia patronus,,,Brevoortia patronus,,,,Brevoortia patronus,Brevoortia patronus,Species
+20,,,,,,158688,Brevoortia,,,Brevoortia spp.,,,,Brevoortia spp.,Brevoortia,Genus
+21,blue crab ,Callinectes sapidus,TRUE,TRUE,TRUE,107379,Callinectes sapidus,C. sapidus,C. sapidus,Callinectes sapidus,blue crab ,CALSAP,crab,Callinectes sapidus,Callinectes sapidus,Species
+22,dwarf blue crab ,Callinectes similis,TRUE,TRUE,TRUE,158055,Callinectes similis,C. similis,C. similis,Callinectes similis,dwarf blue crab ,CALSIM,crab,Callinectes similis,Callinectes similis,Species
+23,,,,,,106921,Callinectes,,,Callinectes sp.,,,,Callinectes sp.,Callinectes,Genus
+24,,,,,,,Caridean,Caridean,Caridean,Caridean,Caridean,CAR,crab,,API request failed,Unknown
+25,bay whiff,Citharichthys spilopterus,TRUE,TRUE,FALSE,159166,Citharichthys spilopterus,C. spilopterus,C. spilopterus,Citharichthys spilopterus,bay whiff,CITSPI,fish,Citharichthys spilopterus,Citharichthys spilopterus,Species
+26,thinstripe hermit crab,Clibanarius vittatus,TRUE,TRUE,TRUE,367528,Clibanarius vittatus,C. vittatus,C. vittatus,Clibanarius vittatus,thinstripe hermit crab,CLIVIT,crab,Clibanarius vittatus,Clibanarius vittatus,Species
+27,,,,,,,Crab,Crab,Crab,Crab,Crab,CRA,crab,,API request failed,Unknown
+28,oyster,Crassostrea virginica,TRUE,TRUE,TRUE,140657,Crassostrea virginica,,,,,,,,Crassostrea virginica,Species
+30,darter goby,Ctebogobius boleosoma,TRUE,TRUE,TRUE,159750,Ctenogobius boleosoma,C. boleosoma,C. boleosoma,Ctebogobius boleosoma,darter goby,CTEBOL,fish,Ctenogobius boleosoma,Ctenogobius boleosoma,Species
+31,sand seatrout,Cynoscion arenarius,TRUE,TRUE,TRUE,276077,Cynoscion arenarius,C. arenarius,C. arenarius,Cynoscion arenarius,sand seatrout,CYNARE,fish,Cynoscion arenarius,Cynoscion arenarius,Species
+32,spotted seatrout,Cynoscion nebulosus,TRUE,TRUE,TRUE,159312,Cynoscion nebulosus,C. nebulosus,C. nebulosus,Cynoscion nebulosus,spotted seatrout,CYNNEB,fish,Cynoscion nebulosus,Cynoscion nebulosus,Species
+33,sheepshead minnow,Cyprinodon variegatus,TRUE,TRUE,TRUE,159285,Cyprinodon variegatus,C. variegatus,C. variegatus,Cyprinodon variegatus,sheepshead minnow,CYPVAR,fish,Cyprinodon variegatus,Cyprinodon variegatus,Species
+34,,,,,,10319,Cyprinodontiformes,Cyprinodontiformes,Cyprinodontiformes,Cyprinodontiformes,cyprinodontiformes,CYPSPP,fish,,Cyprinodontiformes,Order
+35,,,,,,106736,Diogenidae,,,,,,,Diogenidae,Diogenidae,Family
+36,fat sleeper,Dormitator maculatus,TRUE,TRUE,FALSE,159700,Dormitator maculatus,D. maculatus,D. maculatus,Dormitator maculatus,fat sleeper,DORMAC,fish,Dormitator maculatus,Dormitator maculatus,Species
+38,texas mud crab,Dyspanopeus texanus,TRUE,FALSE,FALSE,443955,Dyspanopeus texanus,,,,,,,Dyspanopeus texana,Dyspanopeus texanus,Species
+39,large-scaled spinycheek sleeper,Eleotris amblyopsis ,FALSE,TRUE,FALSE,277793,Eleotris amblyopsis,E. amblyopsis,E. amblyopsis,Eleotris amblyopsis,large-scaled spinycheek sleeper,ELEAMB ,fish,,Eleotris amblyopsis,Species
+41,,,,,,157875,Elops saurus,,,Elops saurus,,,,Elops saurus,Elops saurus,Species
+42,,,,,,125465,Engraulidae,Engraulidae,Engraulidae,Engraulidae,engraulidae,ENGSPP,fish,Engraulidae,Engraulidae,Family
+43,emerald sleeper,Erotelis smaragdus,TRUE,FALSE,FALSE,280710,Erotelis smaragdus,,,Erotelis smaragdus,,,,Erotelis smaragdus,Erotelis smaragdus,Species
+44,spotfin mojarra ,Eucinostomus argenteus,TRUE,TRUE,TRUE,159732,Eucinostomus argenteus,E. argenteus,E. argenteus,Eucinostomus argenteus,spotfin mojarra ,EUCARG,fish,Eucinostomus argenteus,Eucinostomus argenteus,Species
+45,flagfin mojarra ,Eucinostomus melanopterus,FALSE,TRUE,TRUE,276423,Eucinostomus melanopterus,E. melanopterus,E. melanopterus,Eucinostomus melanopterus,flagfin mojarra ,EUCMEL,fish,,Eucinostomus melanopterus,Species
+46,,,,,,159731,Eucinostomus,Eucinostomus sp.,Eucinostomus sp.,Eucinostomus sp.,eucinostomus ,EUCSP,fish,,Eucinostomus,Genus
+47,broadback mud crab,Eurytium limosum,FALSE,TRUE,FALSE,422077,Eurytium limosum,E. limosum,E. limosum,Eurytium limosum,broadback mud crab,EURLIM,crab,,Eurytium limosum,Species
+48,lyre goby,Evorthodus lyricus,FALSE,TRUE,TRUE,159743,Evorthodus lyricus,E. lyricus,E. lyricus,Evorthodus lyricus,lyre goby,EVOLYR,fish,,Evorthodus lyricus,Species
+50,,,,,,158332,Farfantepenaeus aztecus,F. aztecus,F. aztecus,Farfantepenaeus aztecus ,brown shrimp,PENAZT,shrimp,,Penaeus (Farfantepenaeus) aztecus,Species
+51,,,,,,158334,Farfantepenaeus duorarum,Farf sp. duorarum?,Farf sp. duorarum?,Farfantepenaeus duorarum,,FARDUO,shrimp,Farfantepenaeus duorarum,Penaeus (Farfantepenaeus) duorarum,Species
+52,,,,,,158331,Farfantepenaeus,,,Farfantepenaeus sp.,,,,Farfantepenaeus sp.,Penaeus (Farfantepenaeus),Genus
+53,,,,,,154194,Fundulidae,Fundulidae,Fundulidae,Fundulidae,Fundulidae,FUNSPP,fish,Fundulidae,Fundulidae,Family
+54,gulf killifish,Fundulus grandis,TRUE,TRUE,TRUE,276030,Fundulus grandis,F. grandis,F. grandis,Fundulus grandis,gulf killifish,FUNGRA ,fish,Fundulus grandis,Fundulus grandis,Species
+55,saltmarsh topminnow,Fundulus jenkinsi,TRUE,TRUE,TRUE,276031,Fundulus jenkinsi,F. jenkinsi,F. jenkinsi,Fundulus jenkinsi,saltmarsh topminnow,FUNJEN,fish,Fundulus jenkinsi,Fundulus jenkinsi,Species
+56,bayou killifish,Fundulus pulvereus,TRUE,FALSE,FALSE,276033,Fundulus pulvereus,,,Fundulus pulvereus,,,,Fundulus pulvereus,Fundulus pulvereus,Species
+57,longnose killifish,Fundulus similis,FALSE,FALSE,TRUE,276034,Fundulus similis,,,,,,,,Fundulus similis,Species
+58,,,,,,159292,Fundulus,,,Fundulus sp.,,,,Fundulus sp.,Fundulus,Genus
+59,diamond killifish,Fundulus xenicus,TRUE,TRUE,TRUE,308885,Fundulus xenicus,A. xenica,A. xenica,Fundulus xenicus,diamond killifish,FUNXEN,fish,,Fundulus xenicus,Species
+60,Mosquitofish,Gambusia affinis ,FALSE,FALSE,TRUE,159325,Gambusia affinis,,,,,,,,Gambusia affinis,Species
+61,,,,,,151456,Gerreidae,,,Gerreidae,,,,Gerreidae,Gerreidae,Family
+62,skilletfish,Gobiesox strumosus,TRUE,FALSE,FALSE,158787,Gobiesox strumosus,,,Gobiesox strumosus,,,,Gobiesox strumosus,Gobiesox strumosus,Species
+63,,,,,,125537,Gobiidae,Gobiidae,Gobiidae,Gobiidae,Gobiidae,GOBSPP,fish,Gobiidae,Gobiidae,Family
+64,highfin goby ,Gobionellus oceanicus,TRUE,TRUE,TRUE,159753,Gobionellus oceanicus,G. oceanicus,G. oceanicus,Gobionellus oceanicus,highfin goby ,GOBOCE ,fish,Gobionellus oceanicus,Gobionellus oceanicus,Species
+65,naked goby,Gobiosoma bosc,TRUE,TRUE,TRUE,159767,Gobiosoma bosc,G. bosc,G. bosc,Gobiosoma bosc,naked goby,GOBBOS,fish,Gobiosoma bosc,Gobiosoma bosc,Species
+66,code goby,Gobiosoma robustum,TRUE,FALSE,FALSE,276514,Gobiosoma robustum,,,Gobiosoma robustum,,,,Gobiosoma robustum,Gobiosoma robustum,Species
+67,,,,,,826651,Gobiosoma,,,Gobiosoma sp.,,,,Gobiosoma sp.,Gobiosoma,Genus
+68,gold brotula,Gunterichthys longipenis,TRUE,FALSE,FALSE,280948,Gunterichthys longipenis,,,Gunterichthys longipenis,,,,Gunterichthys longipenis,Gunterichthys longipenis,Species
+69,,,,,,204605,Harengula,Harengula sp.,Harengula sp.,Harengula sp.,Herring,HARSP,fish,,Harengula,Genus
+70,freckled blenny,Hypsoblennius ionthas,TRUE,FALSE,FALSE,276327,Hypsoblennius ionthas,,,Hypsoblennius ionthas,,,,Hypsoblennius ionthas,Hypsoblennius ionthas,Species
+71,pinfish ,Lagodon rhomboides,TRUE,TRUE,TRUE,159249,Lagodon rhomboides,L. rhomboides,L. rhomboides,Lagodon rhomboides,pinfish ,LAGRHO,fish,Lagodon rhomboides,Lagodon rhomboides,Species
+72,sargassum shrimp,Latreutes parvulus,TRUE,FALSE,FALSE,240877,Latreutes parvulus,,,Latreutes parvulus,,,,Latreutes parvulus,Latreutes parvulus,Species
+73,brown grass shrimp,Leander tenuicornis,TRUE,TRUE,TRUE,107612,Leander tenuicornis,L. tenuicornis,L. tenuicornis,Leander tenuicornis,brown grass shrimp,LEATEN,shrimp,Leander tenuicornis,Leander tenuicornis,Species
+74,spot,Leiostomus xanthurus,TRUE,TRUE,TRUE,159322,Leiostomus xanthurus,L. xanthurus,L. xanthurus,Leiostomus xanthurus,spot,LEIXAN,fish,Leiostomus xanthurus,Leiostomus xanthurus,Species
+76,brown shrimp,Litopenaus setiferus ,TRUE,TRUE,TRUE,158336,Litopenaeus setiferus,L. setiferus,L. setiferus,Litopenaeus setiferus,white shrimp,PENSET,shrimp,Litopenaeus setiferus,Penaeus (Litopenaeus) setiferus,Species
+77,marsh perriwinkle,Littoraria irrorata ,FALSE,FALSE,TRUE,419566,Littoraria irrorata,,,,,,,,Littoraria irrorata,Species
+78,rainwater killifish,Lucania parva,TRUE,FALSE,FALSE,159310,Lucania parva,,,Lucania parva,,,,Lucania parva,Lucania parva,Species
+79,,,,,,158346,Lucifer faxoni,,,Lucifer faxoni,,,,Lucifer faxoni,Belzebub faxoni,Species
+80,gray snapper,Lutjanus griseus,TRUE,TRUE,TRUE,159797,Lutjanus griseus,L. griseus,L. griseus,Lutjanus griseus,mangrove snapper,LUTGRI,fish,Lutjanus griseus,Lutjanus griseus,Species
+81,,,,,,,Macrobrachium ohione,,,Macrobrachium ohione,,,,Macrobrachium ohione,API request failed,Unknown
+82,inland silverside,Menidia beryllina,TRUE,TRUE,TRUE,159227,Menidia beryllina,M. beryllina,M. beryllina,Menidia beryllina,inland silverside,MENBER,fish,Menidia beryllina,Menidia beryllina,Species
+83,,,,,,159225,Menidia,Menidia sp.,Menidia sp.,Menidia sp.,silversides,MENSP,fish,,Menidia,Genus
+84,stone crab,Menippe mercenaria,TRUE,FALSE,FALSE,422070,Menippe mercenaria,,,,,,,,Menippe mercenaria,Species
+85,,,,,,,Menippe mercenaria/adinia,,,Menippe mercenaria/adinia,,,,Menippe mercenaria/adinia,API request failed,Unknown
+86,clown goby,Microgobius gulosus,TRUE,FALSE,FALSE,158804,Microgobius gulosus,,,Microgobius gulosus,,,,Microgobius gulosus,Microgobius gulosus,Species
+87,green goby,Microgobius thalassinus,TRUE,FALSE,FALSE,158805,Microgobius thalassinus,,,Microgobius thalassinus,,,,Microgobius thalassinus,Microgobius thalassinus,Species
+88,scuptured mud crab,Micropanope sculptipes,TRUE,FALSE,FALSE,422137,Micropanope sculptipes,,,Micropanope sculptipes,,,,Micropanope sculptipes,Micropanope sculptipes,Species
+89,atlantic croaker,Micropogonias undulatus,TRUE,TRUE,TRUE,151158,Micropogonias undulatus,M. undulatus,M. undulatus,Micropogonias undulatus,atlantic croaker,MICUND,fish,Micropogonias undulatus,Micropogonias undulatus,Species
+90,longwave gulf fiddler,Minuca longisignalis,TRUE,FALSE,FALSE,955264,Minuca longisignalis,,,,,,,,Minuca longisignalis,Species
+91,atlantic marsh fiddler,Minuca pugnax,TRUE,TRUE,TRUE,955270,Minuca pugnax,,,,,,,,Minuca pugnax,Species
+92,mudflat fiddler,Minuca rapax,TRUE,TRUE,TRUE,955271,Minuca rapax,,,,,,,,Minuca rapax,Species
+93,flathead gray mullet,Mugil cephalus,TRUE,TRUE,TRUE,126983,Mugil cephalus,M. cephalus,M. cephalus,Mugil cephalus,flathead gray mullet,MUGCEP,fish,Mugil cephalus,Mugil cephalus,Species
+94,white mullet,Mugil curema,FALSE,TRUE,FALSE,159416,Mugil curema,M. curema,M. curema,Mugil curema,white mullet,MUGCUR,fish,,Mugil curema,Species
+95,speckled worm-eel,Myrophis punctatus,TRUE,TRUE,TRUE,158643,Myrophis punctatus,M. punctatus,M. punctatus,Myrophis punctatus,speckled worm-eel,MYRPUN,fish,Myrophis punctatus,Myrophis punctatus,Species
+96,ridged spaghetti eel,Neoconger mucronatus,TRUE,FALSE,FALSE,158580,Neoconger mucronatus,,,Neoconger mucronatus,,,,Neoconger mucronatus,Neoconger mucronatus,Species
+97,False shark eye ,Neverita delessertiana,FALSE,FALSE,TRUE,419761,Neverita delessertiana,,,,,,,,Neverita delessertiana,Species
+98,,,,,,,,,,No species collected,,,,No species collected,API request failed,Unknown
+99,,,,,,106773,Ocypodidae,Ocypodidae (megalopa),Ocypodidae (megalopa),Ocypodidae (megalopa),Ocypodidae (megalopa),OCYSPP,crab,,Ocypodidae,Family
+100,esturaine longeye shrimp,Ogyrides alphaerostris,TRUE,FALSE,FALSE,158368,Ogyrides alphaerostris,,,Ogyrides alphaerostris,,,,Ogyrides alphaerostris,Ogyrides alphaerostris,Species
+101,,,,,,106998,Ogyrides,,,Ogyrides sp.,,,,Ogyrides sp.,Ogyrides,Genus
+103,shrimp eel,Ophichthus gomesi,TRUE,FALSE,FALSE,271955,Ophichthus gomesii,,,Ophichthus gomesi,,,,Ophichthus gomesi,Ophichthus gomesii,Species
+104,Opsanus beta,Opsanus beta,TRUE,TRUE,FALSE,275645,Opsanus beta,O. beta,O. beta,Opsanus beta,gulf toadfish,OPSBET,fish,Opsanus beta,Opsanus beta,Species
+105,dark shorecrab,Pachygrapsus gracilis,FALSE,FALSE,TRUE,241200,Pachygrapsus gracilis,,,,,,,,Pachygrapsus gracilis,Species
+106,,,,,,106738,Paguridae,,,Paguridae,,,,Paguridae,Paguridae,Family
+107,armed hermit crab,Pagurus armatus,FALSE,TRUE,FALSE,366655,Pagurus armatus,P. armatus,P. armatus,Pagurus armatus,green porcelain crab,PETARM,crab,,Pagurus armatus,Species
+109,long wristed hermit crab,Pagurus longicarpus,TRUE,FALSE,TRUE,158403,Pagurus longicarpus,,,Pagurus longicarpus,,,,Pagurus longicarpus,Pagurus longicarpus,Species
+110,intermediate grass shrimp,Palaemon intermedius,TRUE,TRUE,TRUE,514452,Palaemon intermedius,P. intermedius,P. intermedius,Palaemon intermedius,,PALINT,shrimp,Palaemonetes intermedius,Palaemon intermedius,Species
+111,daggerblade grass shrimp,Palaemon pugio,TRUE,TRUE,TRUE,932401,Palaemon pugio,P. pugio,P. pugio,Palaemon pugio,daggerblade grass shrimp,PALPUG,shrimp,Palaemonetes pugio,Palaemon pugio,Species
+112,marsh grass shrimp,Palaemon vulgaris ,TRUE,TRUE,TRUE,932406,Palaemon vulgaris,P. vulgaris,P. vulgaris,Palaemon vulgaris,marsh grass shrimp,PALVUL,shrimp,Palaemonetes vulgaris,Palaemon vulgaris,Species
+114,,,,,,107034,Palaemonetes,Palaemonetes    sp.,Palaemonetes  sp.,Palaemonetes sp.,grass shrimp,PALSP,shrimp,Palaemonetes sp.,Palaemon,Genus
+115,,,,,,106765,Panopeidae,Panopeidae (crab),Panopeidae,Panopeidae,Panopeidae,PANSPP,crab,Panopeidae,Panopeidae,Family
+116,atlantic mud crab,Panopeus herbstii,TRUE,TRUE,TRUE,158436,Panopeus herbstii,P. herbstii,P. herbstii,Panopeus herbstii,atlantic mud crab,PANHER,crab,Panopeus herbstii,Panopeus herbstii,Species
+117,salt marsh mud crab,Panopeus obesus,FALSE,FALSE,TRUE,422085,Panopeus obesus,,,,,,,,Panopeus obesus,Species
+118,oystershell mud crab,Panopeus simpsoni,FALSE,FALSE,TRUE,422088,Panopeus simpsoni,,,,,,,,Panopeus simpsoni,Species
+119,southern flouder,Paralichthys lethostigma ,TRUE,TRUE,TRUE,158829,Paralichthys lethostigma,,,Paralichthys lethostigma,,,,Paralichthys lethostigma,Paralichthys lethostigma,Species
+120,,,,,,106727,Penaeidae,Penaeidae,Penaeidae,Penaeidae,Penaeidae,PENSPP,shrimp,Penaeidae,Penaeidae,Family
+121,white shrimp,Farfantepenaeus aztecus,TRUE,TRUE,TRUE,395176,Penaeus aztecus,,,,,,,,Penaeus (Farfantepenaeus) aztecus,Species
+122,pink shrimp,Farfantepenaeus duorarum,TRUE,TRUE,FALSE,246391,Penaeus duorarum,,,,,,,,Penaeus (Farfantepenaeus) duorarum,Species
+124,Green porcelain crab,Petrolisthes armatus,FALSE,FALSE,TRUE,396707,Petrolisthes armatus,,,,,,,,Petrolisthes armatus,Species
+125,bruissed nassa,Phrontis vibex,FALSE,FALSE,TRUE,877061,Phrontis vibex,,,,,,,,Phrontis vibex,Species
+126,,,,,,,Pinnotheres maculatus,,,Pinnotheres maculatus,,,,Pinnotheres maculatus,API request failed,Unknown
+127,sailfin molly,Poecilia latipinna,FALSE,TRUE,TRUE,275348,Poecilia latipinna,P. latipinna,P. latipinna,Poecilia latipinna,sailfin molly,POELAT,fish,,Poecilia latipinna,Species
+128,black drum,Pogonias cromis,FALSE,TRUE,TRUE,159333,Pogonias cromis,P. cromis,P. cromis,Pogonias cromis,black drum,POGCRO,fish,,Pogonias cromis,Species
+129,,,,,,106763,Portunidae,Portunidae (megalopae),Portunidae,Portunidae,Portunidae,PORSPP,crab,Portunidae,Portunidae,Family
+130,bighead searobin,Prionotus tribulus,TRUE,FALSE,FALSE,159577,Prionotus tribulus,,,Prionotus tribulus,,,,Prionotus tribulus,Prionotus tribulus,Species
+131,parasite,Probopyrus pandalicola,FALSE,FALSE,TRUE,157905,Probopyrus pandalicola,,,,,,,,Probopyrus pandalicola,Species
+132,harris mud crab,Rhithropanopeus harrisii,TRUE,FALSE,FALSE,107414,Rhithropanopeus harrisii,,,Rhithropanopeus harrisii,,,,Rhithropanopeus harrisii,Rhithropanopeus harrisii,Species
+133,roughback shrimp,Rimapenaeus similis,TRUE,FALSE,FALSE,377580,Rimapenaeus similis,,,Rimapenaeus similis,,,,Rimapenaeus similis,Rimapenaeus similis,Species
+134,,,,,,158339,Rimapenaeus,,,Rimapenaeus sp.,,,,Rimapenaeus sp.,Rimapenaeus,Genus
+135,,,,,,125558,Sciaenidae,,,Sciaenidae,,,,Sciaenidae,Sciaenidae,Family
+136,red drum,Sciaenops ocellatus,TRUE,TRUE,TRUE,159335,Sciaenops ocellatus,,,Sciaenops ocellatus,,,,Sciaenops ocellatus,Sciaenops ocellatus,Species
+137,purple marsh crab,Sesarma reticulatum,TRUE,TRUE,FALSE,158458,Sesarma reticulatum,S. reticulatum,S. reticulatum,Sesarma reticulatum,purple marsh crab,SESRET,crab,Sesarma reticulatum,Sesarma reticulatum,Species
+138,,,,,,158047,Sesarmidae,Sesarmidae,Sesarmidae,Sesarmidae,Sesarmid,SESSPP,crab,,Sesarmidae,Family
+139,sea snail,Solenosteira cancellaria,FALSE,FALSE,TRUE,419981,Solenosteira cancellaria,,,,,,,,Solenosteira cancellaria,Species
+140,,,,,,125564,Sparidae,,,Sparidae,,,,Sparidae,Sparidae,Family
+141,least puffer,Sphoeroides parvus,TRUE,FALSE,FALSE,275282,Sphoeroides parvus,,,Sphoeroides parvus,,,,Sphoeroides parvus,Sphoeroides parvus,Species
+142,,,,,,136113,Squilla,,,Squilla sp.,,,,Squilla sp.,Squilla,Genus
+143,star drum ,Stellifer lanceolatus,TRUE,TRUE,TRUE,159337,Stellifer lanceolatus,,,Stellifer lanceolatus,,,,Stellifer lanceolatus,Stellifer lanceolatus,Species
+144,blackcheek tonguefish,Symphurus plagiusa,TRUE,TRUE,TRUE,159363,Symphurus plagiusa,S. plagiusa,S. plagiusa,Symphurus plagiusa,blackcheek tonguefish,SYMPLA,fish,Symphurus plagiusa,Symphurus plagiusa,Species
+145,chain pipefish,Syngnathus louisianae,TRUE,TRUE,TRUE,159453,Syngnathus louisianae,,,Syngnathus louisianae,,,,Syngnathus louisianae,Syngnathus louisianae,Species
+146,gulf pipefish,Syngnathus scovelli,TRUE,TRUE,TRUE,275232,Syngnathus scovelli,S. scovelli,S. scovelli,Syngnathus scovelli,gulf pipefish,SYNSCO,fish,Syngnathus scovelli,Syngnathus scovelli,Species
+147,,,,,,125612,Tetraodontidae,,,Tetraodontidae,,,,Tetraodontidae,Tetraodontidae,Family
+148,hogchoker,Trinectes maculatus ,FALSE,FALSE,TRUE,159271,Trinectes maculatus,,,,,,,,Trinectes maculatus,Species
+149,,,,,,955264,Minuca longisignalis,,,Uca longisignalis,,,,Uca longisignalis,Minuca longisignalis,Species
+150,,,,,,955270,Minuca pugnax,,,Uca pugnax,,,,Uca pugnax,Minuca pugnax,Species
+151,,,,,,955271,Minuca rapax,,,Uca rapax,,,,Uca rapax,Minuca rapax,Species
+152,,,,,,955256,Minuca,Uca sp.,Uca sp.,Uca sp.,fiddler crab,UCASP,crab,Uca sp. ,Minuca,Genus
+154,,,,,,,,Unid. Fish,Unid. Fish,Unid. Fish,Unid. Fish,UNKFSH,fish,Unidentified fish (juvenile/adult),API request failed,Unknown
+155,oyster drill ,Urosalpinx cinerea,FALSE,FALSE,TRUE,140429,Urosalpinx cinerea,,,,,,,,Urosalpinx cinerea,Species
+,Amphipod,,,,,1135,Amphipoda,,,,,AMPSPP,,,Amphipoda,Order
+,unknown arthropod,,,,,1065,arthropoda,,,,,UNKART,,,Arthropoda,Phylum
+,unknown crustacean,,,,,1066,crusacea,,,,,UNKCRU,,,Crustacea,Subphylum
+,unknown fish,,,,,293496,teleostei,,,,,UNKFSH,,,Teleostei,Class
+,unknown polychete,,,,,883,polychaeta,,,,,UNKPOL,,,Polychaeta,Class
+,atlantic crevalle jack,,,,,126803,Caranx hippos,,,,,CARHIP,,,Caranx hippos,Species
+,lemon shark,,,,,105800,Negaprion brevirostris,,,,,NEGBRE,,,Negaprion brevirostris,Species
+,freshwater goby,,,,,276490,Ctenogobius shufeldti,,,,,CTESHU,,,Ctenogobius shufeldti,Species
+,annelid,,,,,882,Annelid,,,,,ANNELI,,,Annelida,Phylum
+,Smallmouth flounder,,,,,158801,Etropus microstomus,,,,,ETRMIC,,,Etropus microstomus,Species
+,Tidewater Mojarra,,,,,276420,Eucinostomus harengulus,,,,,EUCHAR,,,Eucinostomus harengulus,Species
+,atlantic brief squid,,,,,157028,Lolliguncula brevis,,,,,LOLBRE,,,Lolliguncula brevis,Species
+,Inshore lizard fish,,,,,158758,Synodus foetens,,,,,SYNFOE,,,Synodus foetens,Species
+,Silver Jenny,,,,,159733,Eucinostomus gula,,,,,EUCGUL,,,Eucinostomus gula,Species
+,Atlantic Spade Fish,,,,,159703,Chaetodipterus faber,,,,,CHAFAB,,,Chaetodipterus faber,Species
+,Mantis Shrimp,,,,,158466,Squilla empusa,,,,,SQUEMP,,,Squilla empusa,Species
+,Yellowfin Menhaden,,,,,158690,Brevoortia smithi,,,,,BRESMI,,,Brevoortia smithi,Species
+,Southern Kingfish,,,,,159326,Menticirrhus americanus,,,,,MENAME,,,Menticirrhus americanus,Species

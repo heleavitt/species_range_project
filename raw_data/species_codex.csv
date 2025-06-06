@@ -1,0 +1,71 @@
+﻿doerr_name,nelson_name,full_name ,common_name,species_code,functional_group
+A. felis,A. felis,Ariopsis felis,hardhead catfish,ARIFEL,fish
+A. lineatus,A. lineatus,Archirus lineatus,lined sole,ARCLIN,fish
+A. mitchilli,A. mitchilli,Anchoa mitchilli,bay anchovie,ANCMIT,fish
+A. xenica,A. xenica,Fundulus xenicus,diamond killifish,FUNXEN,fish
+C. boleosoma,C. boleosoma,Ctebogobius boleosoma,darter goby,CTEBOL,fish
+C. arenarius,C. arenarius,Cynoscion arenarius,sand seatrout,CYNARE,fish
+C. nebulosus,C. nebulosus,Cynoscion nebulosus,spotted seatrout,CYNNEB,fish
+C. spilopterus,C. spilopterus,Citharichthys spilopterus,bay whiff,CITSPI,fish
+C. variegatus,Cyprinodontiformes,Cyprinodontiformes,cyprinodontiformes,CYPSPP,fish
+Cyprinodontiformes,C. variegatus,Cyprinodon variegatus,sheepshead minnow,CYPVAR,fish
+D. maculatus,D. maculatus,Dormitator maculatus,fat sleeper,DORMAC,fish
+Engraulidae,Engraulidae,Engraulidae,engraulidae,ENGSPP,fish
+Eucinostomus sp.,Eucinostomus sp.,Eucinostomus sp.,eucinostomus ,EUCSP,fish
+E. lyricus,E. lyricus,Evorthodus lyricus,lyre goby,EVOLYR,fish
+E. amblyopsis,E. amblyopsis,Eleotris amblyopsis ,large-scaled spinycheek sleeper,ELEAMB ,fish
+E. argenteus,E. argenteus,Eucinostomus argenteus,spotfin mojarra ,EUCARG,fish
+E. melanopterus,E. melanopterus,Eucinostomus melanopterus,flagfin mojarra ,EUCMEL,fish
+F. grandis,F. grandis,Fundulus grandis ,gulf killifish,FUNGRA ,fish
+Fundulidae,Fundulidae,Fundulidae,Fundulidae,FUNSPP,fish
+F. jenkinsi,F. jenkinsi,Fundulus jenkinsi,saltmarsh topminnow,FUNJEN,fish
+Gobiidae,Gobiidae,Gobiidae,Gobiidae,GOBSPP,fish
+G. oceanicus,G. oceanicus,Gobionellus oceanicus,highfin goby ,GOBOCE ,fish
+G. bosc,G. bosc,Gobiosoma bosc,naked goby,GOBBOS,fish
+Harengula sp.,Harengula sp.,Harengula sp.,Herring,HARSP,fish
+L. rhomboides,L. rhomboides,Lagodon rhomboides,pinfish ,LAGRHO,fish
+L. griseus,L. griseus,Lutjanus griseus,mangrove snapper,LUTGRI,fish
+L. xanthurus,L. xanthurus,Leiostomus xanthurus,spot,LEIXAN,fish
+M. beryllina,M. beryllina,Menidia beryllina,inland silverside,MENBER,fish
+Menidia sp.,Menidia sp.,Menidia sp.,silversides,MENSP,fish
+M. cephalus,M. cephalus,Mugil cephalus,flathead gray mullet,MUGCEP,fish
+M. curema,M. curema,Mugil curema,white mullet,MUGCUR,fish
+M. punctatus,M. punctatus,Myrophis punctatus,speckled worm-eel,MYRPUN,fish
+M. undulatus,M. undulatus,Micropogonias undulatus,atlantic croaker,MICUND,fish
+O. beta,O. beta,Opsanus beta,gulf toadfish,OPSBET,fish
+P. cromis,P. cromis,Pogonias cromis,black drum,POGCRO,fish
+P. latipinna,P. latipinna,Poecilia latipinna,sailfin molly,POELAT,fish
+S. plagiusa,S. plagiusa,Symphurus plagiusa,blackcheek tonguefish,SYMPLA,fish
+S. scovelli,S. scovelli,Syngnathus scovelli,gulf pipefish,SYNSCO,fish
+Unid. Fish,Unid. Fish,Unid. Fish,Unid. Fish,UNKFSH,fish
+F. aztecus,F. aztecus,Farfantepenaeus aztecus ,brown shrimp,PENAZT,shrimp
+Farf sp. duorarum?,Farf sp. duorarum?,Farfantepenaeus duorarum,,FARDUO,shrimp
+L. setiferus,L. setiferus,Litopenaeus setiferus,white shrimp,PENSET,shrimp
+Penaeidae,Penaeidae,Penaeidae,Penaeidae,PENSPP,shrimp
+A. americanus,A. americanus,Armases americanum ,,ARMAME,crab
+A. benedicti,A. benedicti,Armases benedicti,fatfinger marsh crab,ARMBEN,crab
+A. cinereum,A. cinereum,Armases cinereum,squareback marsh crab,ARMCIN,crab
+A. heterochaelis,A. heterochaelis,Alpheus heterochaelis,bigclaw snapping shrimp,ALPHET,crab
+Alpheus sp.,Alpheus sp.,Alpheus sp.,,ALPSP,crab
+C. sapidus,C. sapidus,Callinectes sapidus ,blue crab ,CALSAP,crab
+C. similis,C. similis,Callinectes similis,dwarf blue crab ,CALSIM,crab
+Caridean,Caridean,Caridean,Caridean,CAR,crab
+C. vittatus,Crab,Crab,Crab,CRA,crab
+Crab,C. vittatus,Clibanarius vittatus,thinstripe hermit crab,CLIVIT,crab
+E. limosum,E. limosum,Eurytium limosum,broadback mud crab,EURLIM,crab
+L. tenuicornis,L. tenuicornis,Leander tenuicornis,brown grass shrimp,LEATEN,shrimp
+Ocypodidae (megalopa),Ocypodidae (megalopa),Ocypodidae (megalopa),Ocypodidae (megalopa),OCYSPP,crab
+P. intermedius,P. intermedius,Palaemon intermedius,,PALINT,shrimp
+P. pugio,P. pugio,Palaemon pugio,daggerblade grass shrimp,PALPUG,shrimp
+P. vulgaris,P. vulgaris,Palaemon vulgaris ,marsh grass shrimp,PALVUL,shrimp
+Palaemonetes    sp.,Palaemonetes  sp.,Palaemonetes sp. ,unid. grass shrimp,PALSPP,shrimp
+,Palaemonetes  sp.,Palaemonetes sp. ,grass shrimp,PALSP,shrimp
+Panopeidae (crab),Panopeidae,Panopeidae,Panopeidae,PANSPP,crab
+Portunidae (megalopae),Portunidae,Portunidae,Portunidae,PORSPP,crab
+P. herbstii,P. herbstii,Panopeus herbstii,atlantic mud crab,PANHER,crab
+P. armatus,P. armatus,Pagurus armatus ,green porcelain crab,PETARM,crab
+S. reticulatum,S. reticulatum,Sesarma reticulatum,purple marsh crab,SESRET,crab
+Sesarmidae,Sesarmidae,Sesarmidae,Sesarmid,SESSPP,crab
+Uca sp.,Uca sp.,Uca sp,fiddler crab,UCASP,crab
+TCRUST,,,,,
+GTOTAL,,,,,
