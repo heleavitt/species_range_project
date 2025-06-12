@@ -1,37 +1,27 @@
 library(readr)
+library(rgbif)
+library(tidyverse)
+library(terra)
+library(sp)
+library(sdmpredictors)
 
-zip_files <- list.files("gbif_downloads", pattern = "\\.zip$", full.names = TRUE)
 
-unzipped_base <- "gbif_downloads/unzipped_data"
+setwd("C:/Users/hl51981/OneDrive - University of Georgia/Leavitt_Herbert/PFFW/Manuscripts/Global Change/Revision_repository")
 
-# Create a folder to extract to
-dir.create(unzipped_base, showWarnings = FALSE)
 
-# Unzip all
-lapply(zip_files, function(zf) {
-  unzip(zf, exdir = file.path(unzipped_base, tools::file_path_sans_ext(basename(zf))))
+# Set directory containing cleaned CSVs
+clean_dir <- "gbif_downloads/clean_csvs"
+
+# List all CSV files
+csv_files <- list.files(clean_dir, pattern = "_clean\\.csv$", full.names = TRUE)
+
+# Read and bind all files, adding species name as a column
+gbif_list <- purrr::map_dfr(csv_files, function(file) {
+  df <- read.csv(file)
+  df$species_name <- gsub("_clean\\.csv$", "", basename(file)) %>%
+    gsub("_", " ", .)
+  return(df)
 })
-
-# Define base folder containing all unzipped subfolders
-
-# Get a list of all subfolders
-subfolders <- list.dirs(unzipped_base, full.names = TRUE, recursive = FALSE)
-
-# For each subfolder, find the first .csv file and read it
-
-gbif_list <- lapply(subfolders, function(subdir) {
-  csv_file <- list.files(subdir, pattern = "\\.csv$", full.names = TRUE)
-  if (length(csv_file) == 0) return(NULL)
-  message("Reading: ", csv_file[1])
-  tryCatch(
-    read_delim(csv_file[1], delim = "\t",col_types = cols(.default = "c") ,show_col_types = FALSE),
-    error = function(e) {
-      warning("Skipping ", csv_file[1], ": ", e$message)
-      return(NULL)
-    }
-  )
-})
-
 
 # Remove any NULLs from skipped folders
 gbif_list <- Filter(Negate(is.null), gbif_list)
@@ -56,11 +46,14 @@ occ_clean <- combined_gbif %>%
       species == "Minuca longisignalis" ~ "Minuca spp.",
       species == "Palaemon pugio" ~ "Palaemon spp.",
       species == "Palaemon vulgaris" ~ "Palaemon spp.",
+      species == "Panopeus simpsoni" ~ "Panopeus spp.",
+      species == "Panopeus obesus" ~ "Panopeus spp.",
+      species == "Panopeus herbstii" ~ "Panopeus spp.",
+      
       
       TRUE ~ species  # leave all others unchanged
     )
   )
-
 
 coords <- occ_clean %>%
   dplyr::select(decimalLongitude, decimalLatitude) %>%
@@ -70,13 +63,40 @@ sp_points <- SpatialPoints(coords, proj4string = CRS("+proj=longlat +datum=WGS84
 # Extract SST with 5 km buffer
 pts <- vect(sp_points, crs = "EPSG:4326")
 
+datasets <- list_datasets(terrestrial = TRUE, marine = TRUE)
+layers <- list_layers(datasets)
+
+# Load SST raster
+sst_layer <- load_layers("BO_sstmin", equalarea = FALSE)
+
+# Convert raster and points to terra objects
+sst_terra <- rast(sst_layer)  # convert from raster::raster to terra::SpatRaster
+
+
 # Extract SST using a 5 km buffer (terra uses degrees, so ~0.05 is 5km near equator)
 occ_clean$sst <- terra::extract(sst_terra, pts, buffer = 0.05, fun = mean)[, 2] 
 sst_vals <- na.omit(occ_clean$sst)
 
+
+PtFou_Coords <- data.frame(y = 29.105560, x = -90.194443) 
+
+
+PtFou_vec <- vect(PtFou_Coords, geom = c("x", "y"), crs = "EPSG:4326")
+
+PtFou_vals <- terra::extract(sst_terra, PtFou_vec, buffer = 0.05, fun = mean)[, 2] 
+
+
 # recompile split out species
 species_STI <- occ_clean %>% drop_na(sst) %>% group_by(species) %>% summarise(sti = mean(sst),
                                                                               sti_sd = sd(sst), .groups = 'keep')
+
+species_niche_size <- occ_clean %>% drop_na(sst) %>% drop_na(sal) %>% group_by(species) %>% summarise(temp_mean = mean(sst),
+                                                                                                      temp_2.5 = quantile(sst, 0.025),
+                                                                                                      temp_97.5 = quantile(sst, 0.975),
+                                                                                                      temp_range = (temp_97.5-temp_2.5),
+                                                                                                      .groups = "keep")
+shrimpsst<-occ_clean %>% drop_na(sst) %>% drop_na(sal) %>%filter(species == "Penaeus setiferus") %>% select(sst)
+hist( shrimpsst$sst)
 
 write.csv(species_STI, "STI_results_by_taxon.csv", row.names = FALSE)
 
@@ -102,9 +122,9 @@ comm_df$SampleID <- rownames(comm_sub)  # add SampleID column
 comm_df$mean_sti <- mean_sti  # attach calculated STI
 comm_df$Year <- pivot_all$Year  # bring in Year from pivot_all
 
+write.csv(comm_df, "pivot_clean.csv")
 
 
 
-
-STI_Yearly<-comm_df %>% drop_na(mean_sti) %>% group_by(Year) %>% summarize(mean_STI = mean(mean_sti),
-                                                                              sd_STI = sd(mean_sti))
+CTI_Yearly<-comm_df %>% drop_na(mean_sti) %>% group_by(Year) %>% summarize(mean_STI = mean(mean_sti),
+                                                                           sd_STI = sd(mean_sti))
