@@ -64,12 +64,12 @@
 62,2016,Mugil curema,3,Mugil curema,Species,80,0.038
 63,2016,Myrophis punctatus,4,Myrophis punctatus,Species,80,0.05
 64,2016,Opsanus beta,1,Opsanus beta,Species,80,0.012
-65,2016,Pagurus armatus,1,Pagurus armatus,Species,80,0.012
-66,2016,Palaemon spp.,80,,,80,1.0
-67,2016,Panopeus spp.,25,,,80,0.312
-68,2016,Penaeus aztecus,78,Penaeus aztecus,Species,80,0.975
-69,2016,Penaeus duorarum,2,Penaeus duorarum,Species,80,0.025
-70,2016,Penaeus setiferus,80,Penaeus setiferus,Species,80,1.0
+65,2016,Palaemon spp.,80,,,80,1.0
+66,2016,Panopeus spp.,25,,,80,0.312
+67,2016,Penaeus aztecus,78,Penaeus aztecus,Species,80,0.975
+68,2016,Penaeus duorarum,2,Penaeus duorarum,Species,80,0.025
+69,2016,Penaeus setiferus,80,Penaeus setiferus,Species,80,1.0
+70,2016,Petrolisthes armatus,1,Petrolisthes armatus,Species,80,0.012
 71,2016,Poecilia latipinna,20,Poecilia latipinna,Species,80,0.25
 72,2016,Pogonias cromis,1,Pogonias cromis,Species,80,0.012
 73,2016,Sesarma reticulatum,10,Sesarma reticulatum,Species,80,0.125
@@ -107,21 +107,20 @@
 105,2022_2023,Negaprion brevirostris,1,Negaprion brevirostris,Species,112,0.009
 106,2022_2023,Neverita delessertiana,1,Neverita delessertiana,Species,112,0.009
 107,2022_2023,Pachygrapsus gracilis,1,Pachygrapsus gracilis,Species,112,0.009
-108,2022_2023,Pagurus armatus,3,Pagurus armatus,Species,112,0.027
-109,2022_2023,Pagurus longicarpus,1,Pagurus longicarpus,Species,112,0.009
-110,2022_2023,Palaemon spp.,89,,,112,0.795
-111,2022_2023,Panopeus spp.,45,,,112,0.402
-112,2022_2023,Paralichthys lethostigma,3,Paralichthys lethostigma,Species,112,0.027
-113,2022_2023,Penaeus aztecus,16,Penaeus aztecus,Species,112,0.143
-114,2022_2023,Penaeus setiferus,110,Penaeus setiferus,Species,112,0.982
-115,2022_2023,Petrolisthes armatus,3,Petrolisthes armatus,Species,112,0.027
-116,2022_2023,Phrontis vibex,1,Phrontis vibex,Species,112,0.009
-117,2022_2023,Poecilia latipinna,5,Poecilia latipinna,Species,112,0.045
-118,2022_2023,Probopyrus pandalicola,16,Probopyrus pandalicola,Species,112,0.143
-119,2022_2023,Sciaenops ocellatus,3,Sciaenops ocellatus,Species,112,0.027
-120,2022_2023,Sesarma reticulatum,7,Sesarma reticulatum,Species,112,0.062
-121,2022_2023,Solenosteira cancellaria,3,Solenosteira cancellaria,Species,112,0.027
-122,2022_2023,Symphurus plagiusa,13,Symphurus plagiusa,Species,112,0.116
-123,2022_2023,Syngnathus scovelli,1,Syngnathus scovelli,Species,112,0.009
-124,2022_2023,Trinectes maculatus,2,Trinectes maculatus,Species,112,0.018
-125,2022_2023,Urosalpinx cinerea,1,Urosalpinx cinerea,Species,112,0.009
+108,2022_2023,Pagurus longicarpus,1,Pagurus longicarpus,Species,112,0.009
+109,2022_2023,Palaemon spp.,89,,,112,0.795
+110,2022_2023,Panopeus spp.,45,,,112,0.402
+111,2022_2023,Paralichthys lethostigma,3,Paralichthys lethostigma,Species,112,0.027
+112,2022_2023,Penaeus aztecus,16,Penaeus aztecus,Species,112,0.143
+113,2022_2023,Penaeus setiferus,110,Penaeus setiferus,Species,112,0.982
+114,2022_2023,Petrolisthes armatus,3,Petrolisthes armatus,Species,112,0.027
+115,2022_2023,Phrontis vibex,1,Phrontis vibex,Species,112,0.009
+116,2022_2023,Poecilia latipinna,5,Poecilia latipinna,Species,112,0.045
+117,2022_2023,Probopyrus pandalicola,16,Probopyrus pandalicola,Species,112,0.143
+118,2022_2023,Sciaenops ocellatus,3,Sciaenops ocellatus,Species,112,0.027
+119,2022_2023,Sesarma reticulatum,7,Sesarma reticulatum,Species,112,0.062
+120,2022_2023,Solenosteira cancellaria,3,Solenosteira cancellaria,Species,112,0.027
+121,2022_2023,Symphurus plagiusa,13,Symphurus plagiusa,Species,112,0.116
+122,2022_2023,Syngnathus scovelli,1,Syngnathus scovelli,Species,112,0.009
+123,2022_2023,Trinectes maculatus,2,Trinectes maculatus,Species,112,0.018
+124,2022_2023,Urosalpinx cinerea,1,Urosalpinx cinerea,Species,112,0.009

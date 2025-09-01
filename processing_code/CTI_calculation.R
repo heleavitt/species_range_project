@@ -3,6 +3,7 @@ library(rgbif)
 library(tidyverse)
 library(terra)
 library(sf)
+library(sp)
 library(ggrepel)
 
 library(sdmpredictors)
@@ -121,7 +122,7 @@ thin <- pts_thin |>
   ungroup()
 
 
-sp_presence<-read.csv("./outputs/species_presence_2006_2016_2022.csv")
+sp_presence<-read.csv("./raw_data/species_presence_2006_2016_2022.csv")
 
 species_latitudes<-thin %>%
   filter(decimalLongitude >= -130 & decimalLongitude <= -30) %>% 
@@ -131,7 +132,6 @@ species_latitudes<-thin %>%
   left_join(sp_presence, by = c( "species"= "valid_name")) %>% na.omit()
 write.csv(species_latitudes, "outputs/species_latitudes.csv")
 
-plot(st_geometry(st_as_sf(shark)))
 # Recompute STI metrics on the thinned set
 species_STI <- thin %>%
   group_by(species) %>%
@@ -182,7 +182,7 @@ comm_df$mean_sti <- mean_sti  # attach calculated STI
 comm_df$mean_sti_2.5 <-mean_sti_2.5
 comm_df$Year <- pivot_all$Year  # bring in Year from pivot_all
 comm_df$mean_sti_range <- mean_sti_range
-write.csv(comm_df, "pivot_clean.csv")
+write.csv(comm_df, "outputs/pivot_clean.csv")
 
 
 

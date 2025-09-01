@@ -1,0 +1,4 @@
+*.zip
+**/scratch/
+**/archive/
+WORMZ_ID.py

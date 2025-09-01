@@ -15,7 +15,7 @@ options(
 
 
 # Load presence data
-presence_df<- read.csv("presence_pivot_merged_sp.csv")
+presence_df<- read.csv("outputs/presence_pivot_merged_sp.csv")
 
 # Filter to species-level taxa (space in name) or defined groups
 species_level <- presence_df_new[grepl(" ", presence_df_new$Taxon), ]

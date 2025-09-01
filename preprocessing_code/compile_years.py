@@ -11,7 +11,6 @@ raw_2016 = pd.read_csv("raw_data/raw_2016.csv")
 raw_2022 = pd.read_csv("raw_data/raw_2022.csv")
 raw_2023 = pd.read_csv("raw_data/raw_2023.csv")
 #species_list = pd.read_csv("raw_data/species_list.csv")
-species_codex = pd.read_csv("raw_data/species_codex.csv")
 study_species = pd.read_csv("outputs/species_presence_2006_2016_2022.csv")
 # Concatenate the three dataframes
 merged_df = pd.concat([fish_2006, invert_2006, peneid_2006], ignore_index=True)
@@ -22,7 +21,6 @@ species_list = pd.read_csv("outputs/final_aphia_codex_edited.csv")
 
 # Clean column names
 species_list.columns = species_list.columns.str.strip()
-species_codex.columns = species_codex.columns.str.strip()
 
 # Process 2022 data
 data_2022 = raw_2022.copy()
