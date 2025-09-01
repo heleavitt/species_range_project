@@ -15,27 +15,29 @@ options(
 
 
 # Load presence data
-presence_df <- read.csv("presence_pivot_merged_sp.csv")
-
-# Calculate mean occurrence for each species
-presence_df$mean_occurrence <- rowMeans(presence_df[, c("X2006", "X2016", "X2022_2023")], na.rm = TRUE)
+presence_df<- read.csv("presence_pivot_merged_sp.csv")
 
 # Filter to species-level taxa (space in name) or defined groups
-species_level <- presence_df[grepl(" ", presence_df$Taxon), ]
+species_level <- presence_df_new[grepl(" ", presence_df_new$Taxon), ]
 
 # Unique taxa (including pooled groups)
 target_taxa <- unique(species_level$Taxon) %>% rbind("Avicennia germinans", "Spartina alterniflora")
-# Define manual taxon groupings for gbif search. Will be recompiled afterwards in STI calculations later on. 
+
+
 group_taxa <- list(
   "Minuca spp." = c("Minuca longisignalis"),
   "Palaemon spp." = c("Palaemon pugio", "Palaemon vulgaris"),
   "Panopeus spp." = c("Panopeus obesus", "Panopeus simpsoni")
 )
 
+threatened_taxa <- c("Fundulus jenkinsi", "Negaprion brevirostris") 
+
 # Loop through taxa
 for (taxon in target_taxa) {
   message("Processing ", taxon)
-  
+  if(taxon %in% threatened_taxa){
+    uncert <- 30000
+  }else{uncert <- 1000}
   # Determine which species to query
   if (taxon %in% names(group_taxa)) {
     species_vec <- group_taxa[[taxon]]
@@ -55,25 +57,39 @@ for (taxon in target_taxa) {
       format = "SIMPLE_CSV"
     )
     
-    occ_download_wait(gbif_download) 
+    occ_download_wait(download_key) 
     
     # Save raw zip
     dl <- occ_download_get(download_key, path = "gbif_downloads", overwrite = TRUE)
     
+    clean_data <- occ_download_import(dl)
+    
+
+    # Skip species if no records are returned
+    if (nrow(clean_data) == 0) {
+      warning("No data returned for ", sp)
+      next
+    }
+  
+    if (nrow(clean_data) == 0 || !"decimalLatitude" %in% names(clean_data)) {
+      warning("No usable data returned for ", sp)
+      next
+    }
+    
+    
     # Clean the data
-    clean_data <- occ_download_import(dl) %>%
-      setNames(tolower(names(.))) %>%
-      filter(occurrencestatus == "PRESENT") %>%
-      filter(!basisofrecord %in% c("FOSSIL_SPECIMEN", "LIVING_SPECIMEN")) %>%
+    clean_data <- clean_data %>%
+      filter(occurrenceStatus == "PRESENT") %>%
+      filter(!basisOfRecord %in% c("FOSSIL_SPECIMEN", "LIVING_SPECIMEN")) %>%
       filter(year >= 1900) %>%
-      filter(coordinateprecision < 0.01 | is.na(coordinateprecision)) %>%
-      filter(coordinateuncertaintyinmeters < 10000 | is.na(coordinateuncertaintyinmeters)) %>%
-      filter(!coordinateuncertaintyinmeters %in% c(301, 3036, 999, 9999)) %>%
-      filter(!(decimallatitude == 0 | decimallongitude == 0)) %>%
+      filter(coordinatePrecision < 0.01 | is.na(coordinatePrecision)) %>%
+      filter(coordinateUncertaintyInMeters < 30000 | is.na(coordinateUncertaintyInMeters)) %>%
+      filter(!coordinateUncertaintyInMeters %in% c(301, 3036, 999, 9999)) %>%
+      filter(!(decimalLatitude == 0 | decimalLongitude == 0)) %>%
       cc_cen(buffer = 2000) %>%
       cc_cap(buffer = 2000) %>%
       cc_inst(buffer = 2000) %>%
-      distinct(decimallongitude, decimallatitude, specieskey, datasetkey, .keep_all = TRUE)
+      distinct(decimalLongitude, decimalLatitude, speciesKey, datasetKey, .keep_all = TRUE)
     
     # Save cleaned data
     csv_path <- paste0("gbif_downloads/clean_csvs/", gsub(" ", "_", sp), "_clean.csv")

@@ -63,8 +63,6 @@ Farfantepenaeus duorarum: https://doi.org/10.15468/dl.7zcp7r
 
 Fundulus grandis: https://doi.org/10.15468/dl.zh6yrt
 
-Fundulus jenkinsi: https://doi.org/10.15468/dl.cxpfw4
-
 Fundulus pulvereus: https://doi.org/10.15468/dl.q2dg7b
 
 Fundulus similis: https://doi.org/10.15468/dl.hyd863
@@ -100,8 +98,6 @@ Mugil cephalus: https://doi.org/10.15468/dl.gm2dyy
 Mugil curema: https://doi.org/10.15468/dl.zktqpn
 
 Myrophis punctatus: https://doi.org/10.15468/dl.gqebch
-
-Negaprion brevirostris: https://doi.org/10.15468/dl.b88qf3
 
 Neoconger mucronatus: https://doi.org/10.15468/dl.fkxzzu
 
@@ -154,4 +150,8 @@ Syngnathus louisianae: https://doi.org/10.15468/dl.3gw8x9
 Syngnathus scovelli: https://doi.org/10.15468/dl.pwb695
 
 Trinectes maculatus: https://doi.org/10.15468/dl.h3gvct
+
+Fundulus jenkinsi: https://doi.org/10.15468/dl.2bsd6f
+
+Negaprion brevirostris: https://doi.org/10.15468/dl.v63nqc
 

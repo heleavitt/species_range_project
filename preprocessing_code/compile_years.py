@@ -12,13 +12,13 @@ raw_2022 = pd.read_csv("raw_data/raw_2022.csv")
 raw_2023 = pd.read_csv("raw_data/raw_2023.csv")
 #species_list = pd.read_csv("raw_data/species_list.csv")
 species_codex = pd.read_csv("raw_data/species_codex.csv")
-study_species = pd.read_csv("species_presence_2006_2016_2022.csv")
+study_species = pd.read_csv("outputs/species_presence_2006_2016_2022.csv")
 # Concatenate the three dataframes
 merged_df = pd.concat([fish_2006, invert_2006, peneid_2006], ignore_index=True)
 unique_taxa = merged_df['Taxon'].unique()
 unique_taxa_df = pd.DataFrame(unique_taxa, columns=['Taxon'])
 
-species_list = pd.read_csv("final_aphia_codex_edited.csv")
+species_list = pd.read_csv("outputs/final_aphia_codex_edited.csv")
 
 # Clean column names
 species_list.columns = species_list.columns.str.strip()
@@ -156,7 +156,7 @@ presence_summary = presence_summary.merge(
 presence_summary["Proportion_of_Sites"] = (
 	presence_summary["Sites_Present"] / presence_summary["Unique_Sites_Sampled"]
 ).round(3)
-presence_summary.to_csv("presence_summary.csv")
+presence_summary.to_csv("outputs/presence_summary.csv")
 
 # === Pivot for viewing proportions by taxon and year ===
 presence_pivot = (
@@ -165,7 +165,7 @@ presence_pivot = (
 	.reset_index()
 )
 
-presence_pivot.to_csv("presence_pivot.csv")
+presence_pivot.to_csv("outputs/presence_pivot.csv")
 
 
 # === Optional: Sampling effort by season ===

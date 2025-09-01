@@ -1,19 +1,19 @@
 ,Year,Taxon,Sites_Present,Unique_Sites_Sampled,Proportion_of_Sites
 0,2006,Acetes americanus,1,33,0.03
-1,2006,Adinia xenica,1,33,0.03
-2,2006,Alpheus heterochaelis,1,33,0.03
-3,2006,Archosargus probatocephalus,2,33,0.061
-4,2006,Armases cinereum,2,33,0.061
-5,2006,Bairdiella chrysoura,1,33,0.03
-6,2006,Callinectes,20,33,0.606
-7,2006,Callinectes sapidus,29,33,0.879
-8,2006,Clibanarius vittatus,4,33,0.121
-9,2006,Ctenogobius boleosoma,28,33,0.848
-10,2006,Cynoscion arenarius,1,33,0.03
-11,2006,Cyprinodon variegatus,1,33,0.03
-12,2006,Fundulus grandis,1,33,0.03
-13,2006,Fundulus jenkinsi,1,33,0.03
-14,2006,Fundulus pulvereus,1,33,0.03
+1,2006,Alpheus heterochaelis,1,33,0.03
+2,2006,Archosargus probatocephalus,2,33,0.061
+3,2006,Armases cinereum,2,33,0.061
+4,2006,Bairdiella chrysoura,1,33,0.03
+5,2006,Callinectes,20,33,0.606
+6,2006,Callinectes sapidus,29,33,0.879
+7,2006,Clibanarius vittatus,4,33,0.121
+8,2006,Ctenogobius boleosoma,28,33,0.848
+9,2006,Cynoscion arenarius,1,33,0.03
+10,2006,Cyprinodon variegatus,1,33,0.03
+11,2006,Fundulus grandis,1,33,0.03
+12,2006,Fundulus jenkinsi,1,33,0.03
+13,2006,Fundulus pulvereus,1,33,0.03
+14,2006,Fundulus xenicus,1,33,0.03
 15,2006,Gobiidae,1,33,0.03
 16,2006,Gobiosoma,2,33,0.061
 17,2006,Gobiosoma bosc,9,33,0.273
@@ -92,17 +92,17 @@
 90,2016,Myrophis punctatus,4,80,0.05
 91,2016,Ocypodidae,1,80,0.012
 92,2016,Opsanus beta,1,80,0.012
-93,2016,Pagurus armatus,1,80,0.012
-94,2016,Palaemon intermedius,7,80,0.088
-95,2016,Palaemon pugio,70,80,0.875
-96,2016,Palaemon vulgaris,34,80,0.425
-97,2016,Palaemonetes,68,80,0.85
-98,2016,Panopeidae,7,80,0.088
-99,2016,Panopeus herbstii,25,80,0.312
-100,2016,Penaeidae,15,80,0.188
-101,2016,Penaeus aztecus,78,80,0.975
-102,2016,Penaeus duorarum,2,80,0.025
-103,2016,Penaeus setiferus,80,80,1.0
+93,2016,Palaemon intermedius,7,80,0.088
+94,2016,Palaemon pugio,70,80,0.875
+95,2016,Palaemon vulgaris,34,80,0.425
+96,2016,Palaemonetes,68,80,0.85
+97,2016,Panopeidae,7,80,0.088
+98,2016,Panopeus herbstii,25,80,0.312
+99,2016,Penaeidae,15,80,0.188
+100,2016,Penaeus aztecus,78,80,0.975
+101,2016,Penaeus duorarum,2,80,0.025
+102,2016,Penaeus setiferus,80,80,1.0
+103,2016,Petrolisthes armatus,1,80,0.012
 104,2016,Poecilia latipinna,20,80,0.25
 105,2016,Pogonias cromis,1,80,0.012
 106,2016,Portunidae,75,80,0.938
@@ -132,20 +132,20 @@
 130,2022_2023,Fundulus jenkinsi,4,112,0.036
 131,2022_2023,Fundulus similis,1,112,0.009
 132,2022_2023,Fundulus xenicus,4,112,0.036
-133,2022_2023,Gobiosoma bosc,8,112,0.071
-134,2022_2023,Lagodon rhomboides,3,112,0.027
-135,2022_2023,Littoraria irrorata,20,112,0.179
-136,2022_2023,Menidia beryllina,24,112,0.214
-137,2022_2023,Micropogonias undulatus,2,112,0.018
-138,2022_2023,Minuca,3,112,0.027
-139,2022_2023,Minuca longisignalis,47,112,0.42
-140,2022_2023,Minuca rapax,5,112,0.045
-141,2022_2023,Mugil cephalus,10,112,0.089
-142,2022_2023,Myrophis punctatus,3,112,0.027
-143,2022_2023,Negaprion brevirostris,1,112,0.009
-144,2022_2023,Neverita delessertiana,1,112,0.009
-145,2022_2023,Pachygrapsus gracilis,1,112,0.009
-146,2022_2023,Pagurus armatus,3,112,0.027
+133,2022_2023,Gobionellus oceanicus,4,112,0.036
+134,2022_2023,Gobiosoma bosc,8,112,0.071
+135,2022_2023,Lagodon rhomboides,3,112,0.027
+136,2022_2023,Littoraria irrorata,20,112,0.179
+137,2022_2023,Menidia beryllina,24,112,0.214
+138,2022_2023,Micropogonias undulatus,2,112,0.018
+139,2022_2023,Minuca,3,112,0.027
+140,2022_2023,Minuca longisignalis,47,112,0.42
+141,2022_2023,Minuca rapax,5,112,0.045
+142,2022_2023,Mugil cephalus,10,112,0.089
+143,2022_2023,Myrophis punctatus,3,112,0.027
+144,2022_2023,Negaprion brevirostris,1,112,0.009
+145,2022_2023,Neverita delessertiana,1,112,0.009
+146,2022_2023,Pachygrapsus gracilis,1,112,0.009
 147,2022_2023,Pagurus longicarpus,1,112,0.009
 148,2022_2023,Palaemonetes,89,112,0.795
 149,2022_2023,Panopeus obesus,42,112,0.375
