@@ -1,0 +1,65 @@
+"","species","Min Latitude","Mean Latitude","Max Latitude","common_name","scientific_name","X2005","X2016","X2022","AphiaID"
+"1","Achirus lineatus",4.8306,24.9943028571429,31.200488,"lined sole","Archirus lineatus",FALSE,TRUE,FALSE,279493
+"2","Alpheus heterochaelis",25.08969,28.0437738181818,30.6547,"bigclaw snapping shrimp","Alpheus heterochaelis",TRUE,TRUE,TRUE,158348
+"3","Anchoa mitchilli",-9.665059,33.2109160198675,41.904347,"bay anchovie","Anchoa mitchilli",TRUE,TRUE,TRUE,158699
+"4","Archosargus probatocephalus",-28.532222,28.3429552824859,44.5563,"sheepshead","Archosargus probatocephalus",TRUE,TRUE,TRUE,159238
+"5","Ariopsis felis",-28.15233,26.6394186231884,31.489063,"hardhead catfish","Ariopsis felis",TRUE,TRUE,TRUE,158709
+"6","Armases benedicti",-1.747387,-0.8976185,-0.04785,"fatfinger marsh crab","Armases benedicti",FALSE,TRUE,FALSE,422192
+"7","Armases cinereum",21.010283,31.7591594029851,39.277772,"squareback marsh crab","Armases cinereum",TRUE,TRUE,TRUE,158049
+"8","Bagre marinus",-3.618554,27.4004435267857,35.241069,"gaftop catfish ","Bagre marinus",TRUE,TRUE,TRUE,158713
+"9","Bairdiella chrysoura",19.41635,32.4452117666667,41.186203,"Silver Perch ","Bairdiella chrysoura",TRUE,TRUE,TRUE,159303
+"10","Bathygobius soporator",-27.748337,14.0889235700935,35.770642,"Frillfin Goby","Bathygobius soporator",FALSE,FALSE,TRUE,277638
+"11","Callinectes sapidus",-37.259891,22.782421244186,44.643556,"blue crab ","Callinectes sapidus",TRUE,TRUE,TRUE,107379
+"12","Callinectes similis",21.136998,29.9133686607143,39.206859,"dwarf blue crab ","Callinectes similis",TRUE,TRUE,TRUE,158055
+"13","Citharichthys spilopterus",-29.979692,25.7810988478261,35.362407,"bay whiff","Citharichthys spilopterus",TRUE,TRUE,FALSE,159166
+"14","Clibanarius vittatus",11.91172,29.1075735882353,38.670488,"thinstripe hermit crab","Clibanarius vittatus",TRUE,TRUE,TRUE,367528
+"15","Crassostrea virginica",18.788393,36.32504823,49.026838,"oyster","Crassostrea virginica",TRUE,TRUE,TRUE,140657
+"16","Ctenogobius boleosoma",-20.271985,25.3398008888889,41.516573,"darter goby","Ctebogobius boleosoma",TRUE,TRUE,TRUE,159750
+"17","Cynoscion arenarius",20.95212,28.8108122903226,35.923512,"sand seatrout","Cynoscion arenarius",TRUE,TRUE,TRUE,276077
+"18","Cynoscion nebulosus",18.635497,30.5604270566038,39.022056,"spotted seatrout","Cynoscion nebulosus",TRUE,TRUE,TRUE,159312
+"19","Cyprinodon variegatus",21.019513,32.1315815652174,41.825087,"sheepshead minnow","Cyprinodon variegatus",TRUE,TRUE,TRUE,159285
+"20","Dormitator maculatus",-23.624489,23.1732109444444,35.812967,"fat sleeper","Dormitator maculatus",TRUE,TRUE,FALSE,159700
+"21","Eleotris amblyopsis",5.14537,21.2046032777778,35.104825,"large-scaled spinycheek sleeper","Eleotris amblyopsis ",FALSE,TRUE,FALSE,277793
+"22","Eucinostomus argenteus",-12.9386,25.4115080227273,40.841478,"spotfin mojarra ","Eucinostomus argenteus",TRUE,TRUE,TRUE,159732
+"23","Eucinostomus melanopterus",-27.541102,18.4953138958333,40.854032,"flagfin mojarra ","Eucinostomus melanopterus",FALSE,TRUE,TRUE,276423
+"24","Eurytium limosum",-2.844515,28.5050146666667,33.955429,"broadback mud crab","Eurytium limosum",FALSE,TRUE,FALSE,422077
+"25","Evorthodus lyricus",4.736185,26.9580929411765,35.794311,"lyre goby","Evorthodus lyricus",FALSE,TRUE,TRUE,159743
+"26","Fundulus grandis",24.697486,29.0657654215686,32.891288,"gulf killifish","Fundulus grandis",TRUE,TRUE,TRUE,276030
+"27","Fundulus jenkinsi",28.713943,30.8123051666667,33.105835,"saltmarsh topminnow","Fundulus jenkinsi",TRUE,TRUE,TRUE,276031
+"28","Fundulus pulvereus",27.681531,29.2573912727273,30.449167,"bayou killifish","Fundulus pulvereus",TRUE,FALSE,FALSE,276033
+"29","Fundulus similis",24.758138,28.53438765,31.017453,"longnose killifish","Fundulus similis",FALSE,FALSE,TRUE,276034
+"30","Fundulus xenicus",26.138339,29.3527596206897,30.444192,"diamond killifish","Fundulus xenicus",TRUE,TRUE,TRUE,308885
+"31","Gobionellus oceanicus",-32.034408,22.6063435,32.917905,"highfin goby ","Gobionellus oceanicus",TRUE,TRUE,TRUE,159753
+"32","Gobiosoma bosc",26.003907,34.4568103292683,41.668148,"naked goby","Gobiosoma bosc",TRUE,TRUE,TRUE,159767
+"33","Lagodon rhomboides",20.441,31.3522299940828,41.5491,"pinfish ","Lagodon rhomboides",TRUE,TRUE,TRUE,159249
+"34","Leiostomus xanthurus",26.049614,34.1127946878981,41.772569,"spot","Leiostomus xanthurus",TRUE,TRUE,TRUE,159322
+"35","Littoraria irrorata",26.072298,32.5247963846154,40.575043,"marsh perriwinkle","Littoraria irrorata ",FALSE,FALSE,TRUE,419566
+"36","Lucania parva",24.718727,33.3714632236842,41.718978,"rainwater killifish","Lucania parva",TRUE,FALSE,FALSE,159310
+"37","Lutjanus griseus",-24.194138,23.608995835249,41.487172,"gray snapper","Lutjanus griseus",TRUE,TRUE,TRUE,159797
+"38","Menidia beryllina",24.756255,32.9525063248731,41.948538,"inland silverside","Menidia beryllina",TRUE,TRUE,TRUE,159227
+"39","Micropogonias undulatus",-27.612618,31.6430099113924,40.92923,"atlantic croaker","Micropogonias undulatus",TRUE,TRUE,TRUE,151158
+"40","Mugil cephalus",-36.553803,22.8336432977099,40.639315,"flathead gray mullet","Mugil cephalus",TRUE,TRUE,TRUE,126983
+"41","Mugil curema",-27.689576,22.0100655567568,44.488783,"white mullet","Mugil curema",FALSE,TRUE,FALSE,159416
+"42","Myrophis punctatus",25.290916,29.4536745357143,35.796704,"speckled worm-eel","Myrophis punctatus",TRUE,TRUE,TRUE,158643
+"43","Neverita delessertiana",25.116938,29.0335997884615,33.913666,"False shark eye ","Neverita delessertiana",FALSE,FALSE,TRUE,419761
+"44","Opsanus beta",-25.517833,26.8970512253521,30.406658,"Opsanus beta","Opsanus beta",TRUE,TRUE,FALSE,275645
+"45","Pachygrapsus gracilis",-21.622082,15.8740558421053,29.882936,"dark shorecrab","Pachygrapsus gracilis",FALSE,FALSE,TRUE,241200
+"46","Pagurus longicarpus",25.116377,38.3851807868852,48.803486,"long wristed hermit crab","Pagurus longicarpus",TRUE,FALSE,TRUE,158403
+"47","Paralichthys lethostigma",27.401944,27.774861,28.147778,"southern flouder","Paralichthys lethostigma ",TRUE,TRUE,TRUE,158829
+"48","Penaeus aztecus",18.936514,31.8640179714286,41.376745,"white shrimp","Farfantepenaeus aztecus",TRUE,TRUE,TRUE,158332
+"49","Penaeus duorarum",18.641197,26.20649536,33.350103,"pink shrimp","Farfantepenaeus duorarum",TRUE,TRUE,FALSE,158334
+"50","Penaeus setiferus",18.599818,32.075358765625,40.858794,"white shrimp","Litopenaeus setiferus",TRUE,TRUE,TRUE,158336
+"51","Petrolisthes armatus",-25.422155,23.9410620759494,34.786825,"Green porcelain crab","Petrolisthes armatus",FALSE,TRUE,TRUE,396707
+"52","Phrontis vibex",-27.453182,24.1032046956522,41.930488,"bruissed nassa","Phrontis vibex",FALSE,FALSE,TRUE,877061
+"53","Poecilia latipinna",-14.087709,29.1179521101322,51.169426,"sailfin molly","Poecilia latipinna",FALSE,TRUE,TRUE,275348
+"54","Pogonias cromis",-31.848611,28.5293991117647,41.043002,"black drum","Pogonias cromis",FALSE,TRUE,TRUE,159333
+"55","Probopyrus pandalicola",30.392178,35.8802346,41.38439,"parasite","Probopyrus pandalicola",FALSE,FALSE,TRUE,157905
+"56","Rhithropanopeus harrisii",25.873958,36.6702673939394,47.747192,"harris mud crab","Rhithropanopeus harrisii",TRUE,FALSE,FALSE,107414
+"57","Sciaenops ocellatus",20.438532,30.9423603913043,39.204305,"red drum","Sciaenops ocellatus",TRUE,TRUE,TRUE,159335
+"58","Sesarma reticulatum",24.832131,33.5207413793103,41.923052,"purple marsh crab","Sesarma reticulatum",TRUE,TRUE,FALSE,158458
+"59","Solenosteira cancellaria",20.979638,28.6498956190476,30.392439,"sea snail","Solenosteira cancellaria",FALSE,FALSE,TRUE,419981
+"60","Symphurus plagiusa",4.91042,32.0893509032258,40.935989,"blackcheek tonguefish","Symphurus plagiusa",TRUE,TRUE,TRUE,159363
+"61","Syngnathus louisianae",20.857883,28.99166464,36.27595,"chain pipefish","Syngnathus louisianae",TRUE,TRUE,TRUE,159453
+"62","Syngnathus scovelli",25.1199,28.24257075,31.160382,"gulf pipefish","Syngnathus scovelli",TRUE,TRUE,TRUE,275232
+"63","Trinectes maculatus",-2.664354,32.5470326178862,41.888357,"hogchoker","Trinectes maculatus ",FALSE,FALSE,TRUE,159271
+"64","Urosalpinx cinerea",26.829111,38.4394517647059,46.6,"oyster drill ","Urosalpinx cinerea",FALSE,FALSE,TRUE,140429
