@@ -1,6 +1,6 @@
 # Step 1: Raw Data Merge and Presence Tables
 
-Purpose: consolidate seine catch datasets (2006, 2016, 2022, 2023) and produce community matrices and presence summaries for downstream CTI analyses.
+Purpose: consolidate drop sample datasets (2006, 2016, 2022, 2023) and produce community matrices and presence summaries for downstream CTI analyses.
 
 Primary script/notebook
 - `dataset_merge_and_process_BCODMO.ipynb`: annotated Jupyter notebook that loads raw CSVs, standardizes taxonomic names, and outputs presence/community products.
@@ -18,7 +18,7 @@ Outputs (`outputs/`)
 - `presence_summary2.csv`, `presence_pivot_merged_sp.csv`: presence after taxonomic harmonization for CTI use.
 
 Software
-- Python >= 3.9; pandas. The notebook sets the working directory to the repository root.
+
 
 Run order
 1. Open and run `dataset_merge_and_process_BCODMO.ipynb`.

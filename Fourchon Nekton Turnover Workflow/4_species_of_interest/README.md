@@ -1,5 +1,8 @@
 # Step 4: Species of Interest and CTI Plotting
 
+## Abstract
+This step screens the Port Fourchon nekton assemblage to pinpoint potential mangrove co‑migrators. It chains abundance/presence trends across survey years with GBIF sampling sufficiency, thermal niche position, and range-edge proximity, then flags taxa with low false-absence risk. The pipeline outputs species retained at each filter stage and visualizes CTI trajectories against local winter temperatures to highlight warm-adapted taxa advancing into the study area.
+
 Purpose: identify co-migrator candidates via sequential filters (abundance trends, GBIF sufficiency, thermal limits, range position, false-absence probability) and plot CTI alongside winter temperatures.
 
 Primary script
