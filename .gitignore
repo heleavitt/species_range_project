@@ -1,3 +1,5 @@
-scratch/
-**/archive/
-WORMZ_ID.py
+# Ignore everything
+/*
+
+# Except the specific folder (whitelist)
+!/Fourchon Nekton Composition Workflow/
