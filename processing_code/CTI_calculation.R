@@ -51,6 +51,7 @@ occ_clean <- gbif_list %>%
     )
   )
 
+
 coords <- occ_clean %>%
   dplyr::select(decimalLongitude, decimalLatitude) %>%
   as.matrix()
